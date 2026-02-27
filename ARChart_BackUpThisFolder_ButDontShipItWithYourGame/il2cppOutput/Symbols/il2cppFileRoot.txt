@@ -1,0 +1,1 @@
+C:\Unity Projects\AR Chart\Library\Bee\artifacts\Android\il2cppOutput\cpp
