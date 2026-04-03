@@ -7,6 +7,9 @@
 
 
 
+extern void FoldingMenu_Awake_m0C1741418A052DAC7CE0A5674850C037F43C0D48 (void);
+extern void FoldingMenu_ToggleFolded_mB3FA27BC0C515BCBA5BFD5DAFB1981592AA42B7A (void);
+extern void FoldingMenu__ctor_mC47FD2E64696483C8D224BCDA95C25AF3E36197C (void);
 extern void SceneTemplate_RotateCube_Update_mAF2FB34B99E325443A80D60A7EB73DC092EAE9A6 (void);
 extern void SceneTemplate_RotateCube__ctor_mC7E11C05D25FFF6F8D7EA06AAE5598B497365CD2 (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
@@ -99,8 +102,11 @@ extern void U3CWaitUntilNextCardU3Ed__36_MoveNext_mEB6BA70FAED1CFCFF4A723EA3EAB8
 extern void U3CWaitUntilNextCardU3Ed__36_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mDB2315FB1F67F06B37604285AD8F003E282D1607 (void);
 extern void U3CWaitUntilNextCardU3Ed__36_System_Collections_IEnumerator_Reset_m5E5CC9DFDC8C17DB423A7C7ECBCD4342A7754633 (void);
 extern void U3CWaitUntilNextCardU3Ed__36_System_Collections_IEnumerator_get_Current_mE7D77BA338B271D9E95117683B19436CFFF37229 (void);
-static Il2CppMethodPointer s_methodPointers[92] = 
+static Il2CppMethodPointer s_methodPointers[95] = 
 {
+	FoldingMenu_Awake_m0C1741418A052DAC7CE0A5674850C037F43C0D48,
+	FoldingMenu_ToggleFolded_mB3FA27BC0C515BCBA5BFD5DAFB1981592AA42B7A,
+	FoldingMenu__ctor_mC47FD2E64696483C8D224BCDA95C25AF3E36197C,
 	SceneTemplate_RotateCube_Update_mAF2FB34B99E325443A80D60A7EB73DC092EAE9A6,
 	SceneTemplate_RotateCube__ctor_mC7E11C05D25FFF6F8D7EA06AAE5598B497365CD2,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
@@ -197,10 +203,13 @@ static Il2CppMethodPointer s_methodPointers[92] =
 extern void Goal__ctor_m4452076EE88E564D97BBDD12E7011CAF34E275A3_AdjustorThunk (void);
 static Il2CppTokenAdjustorThunkPair s_adjustorThunks[1] = 
 {
-	{ 0x06000041, Goal__ctor_m4452076EE88E564D97BBDD12E7011CAF34E275A3_AdjustorThunk },
+	{ 0x06000044, Goal__ctor_m4452076EE88E564D97BBDD12E7011CAF34E275A3_AdjustorThunk },
 };
-static const int32_t s_InvokerIndices[92] = 
+static const int32_t s_InvokerIndices[95] = 
 {
+	15393,
+	15393,
+	15393,
 	15393,
 	15393,
 	26509,
@@ -298,7 +307,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	92,
+	95,
 	s_methodPointers,
 	1,
 	s_adjustorThunks,
