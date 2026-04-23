@@ -1389,7 +1389,7 @@ inline void XRInputReaderUtility_SetInputProperty_TisVector2_t1FD6F485C871E832B3
 	((  void (*) (XRInputValueReader_1_t6B311BAB920F92BC851C1CD180A8555021DE8FC0**, XRInputValueReader_1_t6B311BAB920F92BC851C1CD180A8555021DE8FC0*, Behaviour_t01970CFBBA658497AE30F311C447DB0440BAB7FA*, const RuntimeMethod*))XRInputReaderUtility_SetInputProperty_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m0EF1C2CE77396319306FA2662E25B16EFC6074D2_gshared)(___0_property, ___1_value, ___2_behavior, method);
 }
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void XRInputValueReader_EnableDirectActionIfModeUsed_m6194760B90FB92168D6DDCC80C20DD180169ACB2 (XRInputValueReader_t0A220D04F7D6F5BC7E5A253F5AF8A9C3AB430D59* __this, const RuntimeMethod* method) ;
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C_inline (Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C (Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnityAction__ctor_mC53E20D6B66E0D5688CD81B88DBB34F5A58B7131 (UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7* __this, RuntimeObject* ___0_object, intptr_t ___1_method, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnityEvent_AddListener_m8AA4287C16628486B41DA41CA5E7A856A706D302 (UnityEvent_tDC2C3548799DBC91D1E3F3DE60083A66F4751977* __this, UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7* ___0_call, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void XRInputValueReader_DisableDirectActionIfModeUsed_m533212E2020FD7FA589B8B9F536BD7DC6E8048BC (XRInputValueReader_t0A220D04F7D6F5BC7E5A253F5AF8A9C3AB430D59* __this, const RuntimeMethod* method) ;
@@ -1492,7 +1492,7 @@ inline Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 List_1_get_Item_m8F2E15
 }
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, float ___0_x, float ___1_y, float ___2_z, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Vector3_Distance_m2314DB9B8BD01157E013DF87BEA557375C7F9FF9_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_b, const RuntimeMethod* method) ;
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float ARFeatheredPlaneMeshVisualizer_get_featheringWidth_m2E50FB2F2394BF511A66CB70C282F3D31177921F_inline (ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float ARFeatheredPlaneMeshVisualizer_get_featheringWidth_m2E50FB2F2394BF511A66CB70C282F3D31177921F (ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48* __this, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Mathf_Max_mF5379E63D2BBAC76D090748695D833934F8AD051_inline (float ___0_a, float ___1_b, const RuntimeMethod* method) ;
 inline void List_1_Add_m79E50C4F592B1703F4B76A8BE7B4855515460CA1_inline (List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_item, const RuntimeMethod* method)
 {
@@ -1545,7 +1545,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 80644
+// Method Definition Index: 82707
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_tF7D680DB6EB99B81D343949FA6073E71EFD3F889 UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mE53D95EFE4CC954EAE5ECFB8EA7F3C3090EA5FFD (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1558,6 +1558,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_tF7D680DB6EB99B81D343949FA6073
 	}
 	MonoScriptData_tF7D680DB6EB99B81D343949FA6073E71EFD3F889 V_0;
 	memset((&V_0), 0, sizeof(V_0));
+	MonoScriptData_tF7D680DB6EB99B81D343949FA6073E71EFD3F889 V_1;
+	memset((&V_1), 0, sizeof(V_1));
 	{
 		il2cpp_codegen_initobj((&V_0), sizeof(MonoScriptData_tF7D680DB6EB99B81D343949FA6073E71EFD3F889));
 		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_0 = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)SZArrayNew(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var, (uint32_t)((int32_t)440));
@@ -1576,10 +1578,17 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_tF7D680DB6EB99B81D343949FA6073
 		(&V_0)->___TotalTypes = 4;
 		(&V_0)->___IsEditorOnly = (bool)0;
 		MonoScriptData_tF7D680DB6EB99B81D343949FA6073E71EFD3F889 L_6 = V_0;
-		return L_6;
+		V_1 = L_6;
+		goto IL_005d;
+	}
+
+IL_005d:
+	{
+		MonoScriptData_tF7D680DB6EB99B81D343949FA6073E71EFD3F889 L_7 = V_1;
+		return L_7;
 	}
 }
-// Method Definition Index: 80645
+// Method Definition Index: 82708
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_m6E92536916FCFE815DCC96DCC979354D4655AD0E (UnitySourceGeneratedAssemblyMonoScriptTypes_v1_t79D4F8E53749AB1F2C44EB560A0E402A36D73E80* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1665,7 +1674,7 @@ IL2CPP_EXTERN_C void MonoScriptData_tF7D680DB6EB99B81D343949FA6073E71EFD3F889_ma
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 80646
+// Method Definition Index: 82709
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ARSampleMenuManager_get_createButton_m6C49FB35283528F9ADBDDE78836833419451614E (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1674,7 +1683,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE
 		return L_0;
 	}
 }
-// Method Definition Index: 80647
+// Method Definition Index: 82710
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_createButton_m01364D255CE16286461C7559B2B791686C4FAC96 (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -1685,7 +1694,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_createButton_m01
 		return;
 	}
 }
-// Method Definition Index: 80648
+// Method Definition Index: 82711
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ARSampleMenuManager_get_deleteButton_mA2BA9B9BBC3250994329836F3C408FE9F93528B1 (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1694,7 +1703,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE
 		return L_0;
 	}
 }
-// Method Definition Index: 80649
+// Method Definition Index: 82712
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_deleteButton_mBB60870C38572F51C69BEACFEF8CEDC731DE4739 (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -1705,7 +1714,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_deleteButton_mBB
 		return;
 	}
 }
-// Method Definition Index: 80650
+// Method Definition Index: 82713
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ARSampleMenuManager_get_objectMenu_m5A3C18CA2EE8CCC2592559E88A65AB15D44A0BFF (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1714,7 +1723,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651
 		return L_0;
 	}
 }
-// Method Definition Index: 80651
+// Method Definition Index: 82714
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_objectMenu_m4563068967667404B39105B9E5FC0D3A267AE5E5 (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -1725,7 +1734,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_objectMenu_m4563
 		return;
 	}
 }
-// Method Definition Index: 80652
+// Method Definition Index: 82715
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* ARSampleMenuManager_get_objectMenuAnimator_m580C7E238D3FEE12D238DE7A96520030FED79659 (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1734,7 +1743,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Animator_t8A52E42AE54F76681838FE9E632683EF395
 		return L_0;
 	}
 }
-// Method Definition Index: 80653
+// Method Definition Index: 82716
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_objectMenuAnimator_mDDAB59ED77EBCBDC42C07679D239DAE7DE5FD163 (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -1745,7 +1754,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_objectMenuAnimat
 		return;
 	}
 }
-// Method Definition Index: 80654
+// Method Definition Index: 82717
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ARSampleMenuManager_get_cancelButton_mEE4598E105183EC1608A8CBA6CD2106D939B0582 (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1754,7 +1763,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE
 		return L_0;
 	}
 }
-// Method Definition Index: 80655
+// Method Definition Index: 82718
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_cancelButton_mE3F9B0BFBA4C517D7F7918F75439F16DF53E517E (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -1765,7 +1774,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_cancelButton_mE3
 		return;
 	}
 }
-// Method Definition Index: 80656
+// Method Definition Index: 82719
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* ARSampleMenuManager_get_interactionGroup_mB81DAC765E3F1F594CD89622E164BD0AC799AA8A (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1774,7 +1783,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR XRInteractionGroup_tC4826C686618B4D279303C4A8
 		return L_0;
 	}
 }
-// Method Definition Index: 80657
+// Method Definition Index: 82720
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_interactionGroup_mCF4CED08C7FA7BB649F8D94009C03D8EA64F9E88 (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -1785,7 +1794,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_interactionGroup
 		return;
 	}
 }
-// Method Definition Index: 80658
+// Method Definition Index: 82721
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR XRInputValueReader_1_t6B311BAB920F92BC851C1CD180A8555021DE8FC0* ARSampleMenuManager_get_tapStartPositionInput_m81288A243E69ACB307B2E64C629AF452E8C55050 (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1794,7 +1803,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR XRInputValueReader_1_t6B311BAB920F92BC851C1CD
 		return L_0;
 	}
 }
-// Method Definition Index: 80659
+// Method Definition Index: 82722
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_tapStartPositionInput_m95209CDCF97B49C6079C5E5E3185E5A5359D248E (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, XRInputValueReader_1_t6B311BAB920F92BC851C1CD180A8555021DE8FC0* ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1811,7 +1820,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_tapStartPosition
 		return;
 	}
 }
-// Method Definition Index: 80660
+// Method Definition Index: 82723
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR UnityEvent_1_t7CC0661D6B113117B4CC68761D93AC8DF5DBD66A* ARSampleMenuManager_get_spawnedObjectSelectionChanged_m6E29BE1C17253F9C45E79CBB2A68B8C782373850 (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1820,7 +1829,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR UnityEvent_1_t7CC0661D6B113117B4CC68761D93AC8
 		return L_0;
 	}
 }
-// Method Definition Index: 80661
+// Method Definition Index: 82724
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_spawnedObjectSelectionChanged_mA43AAD4018182F40F75DA97F0CD619E76CA9362E (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, UnityEvent_1_t7CC0661D6B113117B4CC68761D93AC8DF5DBD66A* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -1831,7 +1840,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_set_spawnedObjectSel
 		return;
 	}
 }
-// Method Definition Index: 80662
+// Method Definition Index: 82725
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_OnEnable_m8939E29E302F1397E022C32D78C19EAC5AC2DB2E (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1852,7 +1861,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_OnEnable_m8939E29E30
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_1 = __this->___m_CreateButton;
 		NullCheck(L_1);
 		ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* L_2;
-		L_2 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C_inline(L_1, NULL);
+		L_2 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C(L_1, NULL);
 		UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7* L_3 = (UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7*)il2cpp_codegen_object_new(UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7_il2cpp_TypeInfo_var);
 		UnityAction__ctor_mC53E20D6B66E0D5688CD81B88DBB34F5A58B7131(L_3, __this, (intptr_t)((void*)ARSampleMenuManager_ShowMenu_mE3262FD4AE0DF3CD224342BCA83D39FB7DE773B9_RuntimeMethod_var), NULL);
 		NullCheck(L_2);
@@ -1861,7 +1870,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_OnEnable_m8939E29E30
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_4 = __this->___m_CancelButton;
 		NullCheck(L_4);
 		ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* L_5;
-		L_5 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C_inline(L_4, NULL);
+		L_5 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C(L_4, NULL);
 		UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7* L_6 = (UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7*)il2cpp_codegen_object_new(UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7_il2cpp_TypeInfo_var);
 		UnityAction__ctor_mC53E20D6B66E0D5688CD81B88DBB34F5A58B7131(L_6, __this, (intptr_t)((void*)ARSampleMenuManager_HideMenu_mF7B36C1B86A31F383280EB20754E9176D2204493_RuntimeMethod_var), NULL);
 		NullCheck(L_5);
@@ -1870,7 +1879,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_OnEnable_m8939E29E30
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_7 = __this->___m_DeleteButton;
 		NullCheck(L_7);
 		ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* L_8;
-		L_8 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C_inline(L_7, NULL);
+		L_8 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C(L_7, NULL);
 		UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7* L_9 = (UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7*)il2cpp_codegen_object_new(UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7_il2cpp_TypeInfo_var);
 		UnityAction__ctor_mC53E20D6B66E0D5688CD81B88DBB34F5A58B7131(L_9, __this, (intptr_t)((void*)ARSampleMenuManager_DeleteFocusedObject_m667D1CB386D6C76BC4D808BA66AA22FCD519C172_RuntimeMethod_var), NULL);
 		NullCheck(L_8);
@@ -1879,7 +1888,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_OnEnable_m8939E29E30
 		return;
 	}
 }
-// Method Definition Index: 80663
+// Method Definition Index: 82726
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_OnDisable_m52382A9FF69CAABF609C39913243FEDA5C8A1337 (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1902,7 +1911,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_OnDisable_m52382A9FF
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_1 = __this->___m_CreateButton;
 		NullCheck(L_1);
 		ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* L_2;
-		L_2 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C_inline(L_1, NULL);
+		L_2 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C(L_1, NULL);
 		UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7* L_3 = (UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7*)il2cpp_codegen_object_new(UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7_il2cpp_TypeInfo_var);
 		UnityAction__ctor_mC53E20D6B66E0D5688CD81B88DBB34F5A58B7131(L_3, __this, (intptr_t)((void*)ARSampleMenuManager_ShowMenu_mE3262FD4AE0DF3CD224342BCA83D39FB7DE773B9_RuntimeMethod_var), NULL);
 		NullCheck(L_2);
@@ -1911,7 +1920,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_OnDisable_m52382A9FF
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_4 = __this->___m_CancelButton;
 		NullCheck(L_4);
 		ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* L_5;
-		L_5 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C_inline(L_4, NULL);
+		L_5 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C(L_4, NULL);
 		UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7* L_6 = (UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7*)il2cpp_codegen_object_new(UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7_il2cpp_TypeInfo_var);
 		UnityAction__ctor_mC53E20D6B66E0D5688CD81B88DBB34F5A58B7131(L_6, __this, (intptr_t)((void*)ARSampleMenuManager_HideMenu_mF7B36C1B86A31F383280EB20754E9176D2204493_RuntimeMethod_var), NULL);
 		NullCheck(L_5);
@@ -1920,7 +1929,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_OnDisable_m52382A9FF
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_7 = __this->___m_DeleteButton;
 		NullCheck(L_7);
 		ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* L_8;
-		L_8 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C_inline(L_7, NULL);
+		L_8 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C(L_7, NULL);
 		UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7* L_9 = (UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7*)il2cpp_codegen_object_new(UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7_il2cpp_TypeInfo_var);
 		UnityAction__ctor_mC53E20D6B66E0D5688CD81B88DBB34F5A58B7131(L_9, __this, (intptr_t)((void*)ARSampleMenuManager_DeleteFocusedObject_m667D1CB386D6C76BC4D808BA66AA22FCD519C172_RuntimeMethod_var), NULL);
 		NullCheck(L_8);
@@ -1929,7 +1938,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_OnDisable_m52382A9FF
 		return;
 	}
 }
-// Method Definition Index: 80664
+// Method Definition Index: 82727
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_Start_mBFA0AF26C01F6462545D3A04A56D0D7CAF56882D (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1939,7 +1948,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_Start_mBFA0AF26C01F6
 		return;
 	}
 }
-// Method Definition Index: 80665
+// Method Definition Index: 82728
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_Update_m5F175EE244F8E240AF9AC3A7C780D974AAE51DEC (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1950,203 +1959,285 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_Update_m5F175EE244F8
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&XRInputValueReader_1_TryReadValue_mB3FA1E715287C738E23501839BE2CC019B0A4C33_RuntimeMethod_var);
 		s_Il2CppMethodInitialized = true;
 	}
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 V_0;
-	memset((&V_0), 0, sizeof(V_0));
-	RuntimeObject* V_1 = NULL;
+	bool V_0 = false;
+	bool V_1 = false;
+	bool V_2 = false;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 V_3;
+	memset((&V_3), 0, sizeof(V_3));
+	bool V_4 = false;
+	RuntimeObject* V_5 = NULL;
+	bool V_6 = false;
+	bool V_7 = false;
 	int32_t G_B4_0 = 0;
+	int32_t G_B7_0 = 0;
+	int32_t G_B15_0 = 0;
+	int32_t G_B17_0 = 0;
+	int32_t G_B23_0 = 0;
+	int32_t G_B25_0 = 0;
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:149>
 		bool L_0 = __this->___m_ShowObjectMenu;
-		if (!L_0)
+		V_0 = L_0;
+		bool L_1 = V_0;
+		if (!L_1)
 		{
-			goto IL_0063;
+			goto IL_0072;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:151>
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_1 = __this->___m_CreateButton;
-		NullCheck(L_1);
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2;
-		L_2 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_1, NULL);
+		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_2 = __this->___m_CreateButton;
 		NullCheck(L_2);
-		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_2, (bool)0, NULL);
-		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:152>
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_3 = __this->___m_DeleteButton;
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_3;
+		L_3 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_2, NULL);
 		NullCheck(L_3);
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_4;
-		L_4 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_3, NULL);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_3, (bool)0, NULL);
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:152>
+		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_4 = __this->___m_DeleteButton;
 		NullCheck(L_4);
-		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_4, (bool)0, NULL);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_5;
+		L_5 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_4, NULL);
+		NullCheck(L_5);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_5, (bool)0, NULL);
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:153>
 		il2cpp_codegen_runtime_class_init_inline(EventSystem_t61C51380B105BE9D2C39C4F15B7E655659957707_il2cpp_TypeInfo_var);
-		EventSystem_t61C51380B105BE9D2C39C4F15B7E655659957707* L_5;
-		L_5 = EventSystem_get_current_mC87C69FB418563DC2A571A10E2F9DB59A6785016(NULL);
+		EventSystem_t61C51380B105BE9D2C39C4F15B7E655659957707* L_6;
+		L_6 = EventSystem_get_current_mC87C69FB418563DC2A571A10E2F9DB59A6785016(NULL);
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_6;
-		L_6 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_5, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_6)
+		bool L_7;
+		L_7 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_6, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_7)
 		{
-			goto IL_0044;
+			goto IL_004a;
 		}
 	}
 	{
 		il2cpp_codegen_runtime_class_init_inline(EventSystem_t61C51380B105BE9D2C39C4F15B7E655659957707_il2cpp_TypeInfo_var);
-		EventSystem_t61C51380B105BE9D2C39C4F15B7E655659957707* L_7;
-		L_7 = EventSystem_get_current_mC87C69FB418563DC2A571A10E2F9DB59A6785016(NULL);
-		NullCheck(L_7);
-		bool L_8;
-		L_8 = EventSystem_IsPointerOverGameObject_m238732B4FDEA343976D798FF04DB34C3221243C2(L_7, (-1), NULL);
-		G_B4_0 = ((int32_t)(L_8));
-		goto IL_0045;
+		EventSystem_t61C51380B105BE9D2C39C4F15B7E655659957707* L_8;
+		L_8 = EventSystem_get_current_mC87C69FB418563DC2A571A10E2F9DB59A6785016(NULL);
+		NullCheck(L_8);
+		bool L_9;
+		L_9 = EventSystem_IsPointerOverGameObject_m238732B4FDEA343976D798FF04DB34C3221243C2(L_8, (-1), NULL);
+		G_B4_0 = ((int32_t)(L_9));
+		goto IL_004b;
 	}
 
-IL_0044:
+IL_004a:
 	{
 		G_B4_0 = 0;
 	}
 
-IL_0045:
+IL_004b:
 	{
+		V_1 = (bool)G_B4_0;
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:154>
-		if (G_B4_0)
+		bool L_10 = V_1;
+		if (L_10)
 		{
-			goto IL_00f9;
+			goto IL_005e;
 		}
 	}
 	{
-		XRInputValueReader_1_t6B311BAB920F92BC851C1CD180A8555021DE8FC0* L_9 = __this->___m_TapStartPositionInput;
-		NullCheck(L_9);
-		bool L_10;
-		L_10 = XRInputValueReader_1_TryReadValue_mB3FA1E715287C738E23501839BE2CC019B0A4C33(L_9, (&V_0), XRInputValueReader_1_TryReadValue_mB3FA1E715287C738E23501839BE2CC019B0A4C33_RuntimeMethod_var);
-		if (!L_10)
+		XRInputValueReader_1_t6B311BAB920F92BC851C1CD180A8555021DE8FC0* L_11 = __this->___m_TapStartPositionInput;
+		NullCheck(L_11);
+		bool L_12;
+		L_12 = XRInputValueReader_1_TryReadValue_mB3FA1E715287C738E23501839BE2CC019B0A4C33(L_11, (&V_3), XRInputValueReader_1_TryReadValue_mB3FA1E715287C738E23501839BE2CC019B0A4C33_RuntimeMethod_var);
+		G_B7_0 = ((int32_t)(L_12));
+		goto IL_005f;
+	}
+
+IL_005e:
+	{
+		G_B7_0 = 0;
+	}
+
+IL_005f:
+	{
+		V_2 = (bool)G_B7_0;
+		bool L_13 = V_2;
+		if (!L_13)
 		{
-			goto IL_00f9;
+			goto IL_006c;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:156>
 		ARSampleMenuManager_HideMenu_mF7B36C1B86A31F383280EB20754E9176D2204493(__this, NULL);
-		return;
 	}
 
-IL_0063:
+IL_006c:
+	{
+		goto IL_0134;
+	}
+
+IL_0072:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:159>
-		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_11 = __this->___m_InteractionGroup;
-		if (!L_11)
+		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_14 = __this->___m_InteractionGroup;
+		V_4 = (bool)((((int32_t)((((RuntimeObject*)(XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C*)L_14) == ((RuntimeObject*)(RuntimeObject*)NULL))? 1 : 0)) == ((int32_t)0))? 1 : 0);
+		bool L_15 = V_4;
+		if (!L_15)
 		{
-			goto IL_00f9;
+			goto IL_0134;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:161>
-		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_12 = __this->___m_InteractionGroup;
-		NullCheck(L_12);
-		RuntimeObject* L_13;
-		L_13 = XRInteractionGroup_get_focusInteractable_m1EAC5783216B14458479D0E43708E18A8CE95A61_inline(L_12, NULL);
-		V_1 = L_13;
+		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_16 = __this->___m_InteractionGroup;
+		NullCheck(L_16);
+		RuntimeObject* L_17;
+		L_17 = XRInteractionGroup_get_focusInteractable_m1EAC5783216B14458479D0E43708E18A8CE95A61_inline(L_16, NULL);
+		V_5 = L_17;
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:162>
-		RuntimeObject* L_14 = V_1;
-		if (!L_14)
-		{
-			goto IL_00ba;
-		}
-	}
-	{
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_15 = __this->___m_DeleteButton;
-		NullCheck(L_15);
-		bool L_16;
-		L_16 = Behaviour_get_isActiveAndEnabled_mEB4ECCE9761A7016BC619557CEFEA1A30D3BF28A(L_15, NULL);
-		if (!L_16)
-		{
-			goto IL_0097;
-		}
-	}
-	{
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_17 = __this->___m_CreateButton;
-		NullCheck(L_17);
-		bool L_18;
-		L_18 = Behaviour_get_isActiveAndEnabled_mEB4ECCE9761A7016BC619557CEFEA1A30D3BF28A(L_17, NULL);
+		RuntimeObject* L_18 = V_5;
 		if (!L_18)
 		{
-			goto IL_00ba;
+			goto IL_00b6;
 		}
 	}
+	{
+		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_19 = __this->___m_DeleteButton;
+		NullCheck(L_19);
+		bool L_20;
+		L_20 = Behaviour_get_isActiveAndEnabled_mEB4ECCE9761A7016BC619557CEFEA1A30D3BF28A(L_19, NULL);
+		if (!L_20)
+		{
+			goto IL_00b3;
+		}
+	}
+	{
+		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_21 = __this->___m_CreateButton;
+		NullCheck(L_21);
+		bool L_22;
+		L_22 = Behaviour_get_isActiveAndEnabled_mEB4ECCE9761A7016BC619557CEFEA1A30D3BF28A(L_21, NULL);
+		G_B15_0 = ((int32_t)(L_22));
+		goto IL_00b4;
+	}
 
-IL_0097:
+IL_00b3:
+	{
+		G_B15_0 = 1;
+	}
+
+IL_00b4:
+	{
+		G_B17_0 = G_B15_0;
+		goto IL_00b7;
+	}
+
+IL_00b6:
+	{
+		G_B17_0 = 0;
+	}
+
+IL_00b7:
+	{
+		V_6 = (bool)G_B17_0;
+		bool L_23 = V_6;
+		if (!L_23)
+		{
+			goto IL_00e5;
+		}
+	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:164>
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_19 = __this->___m_CreateButton;
-		NullCheck(L_19);
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_20;
-		L_20 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_19, NULL);
-		NullCheck(L_20);
-		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_20, (bool)0, NULL);
-		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:165>
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_21 = __this->___m_DeleteButton;
-		NullCheck(L_21);
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_22;
-		L_22 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_21, NULL);
-		NullCheck(L_22);
-		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_22, (bool)1, NULL);
-		return;
-	}
-
-IL_00ba:
-	{
-		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:167>
-		RuntimeObject* L_23 = V_1;
-		if (L_23)
-		{
-			goto IL_00f9;
-		}
-	}
-	{
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_24 = __this->___m_CreateButton;
 		NullCheck(L_24);
-		bool L_25;
-		L_25 = Behaviour_get_isActiveAndEnabled_mEB4ECCE9761A7016BC619557CEFEA1A30D3BF28A(L_24, NULL);
-		if (!L_25)
-		{
-			goto IL_00d7;
-		}
-	}
-	{
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_25;
+		L_25 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_24, NULL);
+		NullCheck(L_25);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_25, (bool)0, NULL);
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:165>
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_26 = __this->___m_DeleteButton;
 		NullCheck(L_26);
-		bool L_27;
-		L_27 = Behaviour_get_isActiveAndEnabled_mEB4ECCE9761A7016BC619557CEFEA1A30D3BF28A(L_26, NULL);
-		if (!L_27)
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_27;
+		L_27 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_26, NULL);
+		NullCheck(L_27);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_27, (bool)1, NULL);
+		goto IL_0133;
+	}
+
+IL_00e5:
+	{
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:167>
+		RuntimeObject* L_28 = V_5;
+		if (L_28)
 		{
-			goto IL_00f9;
+			goto IL_0106;
 		}
 	}
-
-IL_00d7:
 	{
-		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:169>
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_28 = __this->___m_CreateButton;
-		NullCheck(L_28);
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_29;
-		L_29 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_28, NULL);
+		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_29 = __this->___m_CreateButton;
 		NullCheck(L_29);
-		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_29, (bool)1, NULL);
-		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:170>
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_30 = __this->___m_DeleteButton;
-		NullCheck(L_30);
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_31;
-		L_31 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_30, NULL);
+		bool L_30;
+		L_30 = Behaviour_get_isActiveAndEnabled_mEB4ECCE9761A7016BC619557CEFEA1A30D3BF28A(L_29, NULL);
+		if (!L_30)
+		{
+			goto IL_0103;
+		}
+	}
+	{
+		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_31 = __this->___m_DeleteButton;
 		NullCheck(L_31);
-		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_31, (bool)0, NULL);
+		bool L_32;
+		L_32 = Behaviour_get_isActiveAndEnabled_mEB4ECCE9761A7016BC619557CEFEA1A30D3BF28A(L_31, NULL);
+		G_B23_0 = ((int32_t)(L_32));
+		goto IL_0104;
 	}
 
-IL_00f9:
+IL_0103:
+	{
+		G_B23_0 = 1;
+	}
+
+IL_0104:
+	{
+		G_B25_0 = G_B23_0;
+		goto IL_0107;
+	}
+
+IL_0106:
+	{
+		G_B25_0 = 0;
+	}
+
+IL_0107:
+	{
+		V_7 = (bool)G_B25_0;
+		bool L_33 = V_7;
+		if (!L_33)
+		{
+			goto IL_0133;
+		}
+	}
+	{
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:169>
+		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_34 = __this->___m_CreateButton;
+		NullCheck(L_34);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_35;
+		L_35 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_34, NULL);
+		NullCheck(L_35);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_35, (bool)1, NULL);
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:170>
+		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_36 = __this->___m_DeleteButton;
+		NullCheck(L_36);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_37;
+		L_37 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_36, NULL);
+		NullCheck(L_37);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_37, (bool)0, NULL);
+	}
+
+IL_0133:
+	{
+	}
+
+IL_0134:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:173>
 		return;
 	}
 }
-// Method Definition Index: 80666
+// Method Definition Index: 82729
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_SetObjectToSpawn_mE75FBE5DE5481B6CF6BADF195F2CC9776A49051D (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, int32_t ___0_objectIndex, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2167,7 +2258,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_SetObjectToSpawn_mE7
 		return;
 	}
 }
-// Method Definition Index: 80667
+// Method Definition Index: 82730
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_ShowMenu_mE3262FD4AE0DF3CD224342BCA83D39FB7DE773B9 (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2176,6 +2267,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_ShowMenu_mE3262FD4AE
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralBEF1F71BD3C21C53860EC6863B3105336E4D873B);
 		s_Il2CppMethodInitialized = true;
 	}
+	bool V_0 = false;
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:183>
 		__this->___m_ShowObjectMenu = (bool)1;
@@ -2188,25 +2280,27 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_ShowMenu_mE3262FD4AE
 		NullCheck(L_1);
 		bool L_2;
 		L_2 = Animator_GetBool_mBC4D952885FF7504963E5923C29481A891028FD8(L_1, _stringLiteralBEF1F71BD3C21C53860EC6863B3105336E4D873B, NULL);
-		if (L_2)
+		V_0 = (bool)((((int32_t)L_2) == ((int32_t)0))? 1 : 0);
+		bool L_3 = V_0;
+		if (!L_3)
 		{
-			goto IL_0036;
+			goto IL_0040;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:187>
-		Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* L_3 = __this->___m_ObjectMenuAnimator;
-		NullCheck(L_3);
-		Animator_SetBool_m6F8D4FAF0770CD4EC1F54406249785DE7391E42B(L_3, _stringLiteralBEF1F71BD3C21C53860EC6863B3105336E4D873B, (bool)1, NULL);
+		Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* L_4 = __this->___m_ObjectMenuAnimator;
+		NullCheck(L_4);
+		Animator_SetBool_m6F8D4FAF0770CD4EC1F54406249785DE7391E42B(L_4, _stringLiteralBEF1F71BD3C21C53860EC6863B3105336E4D873B, (bool)1, NULL);
 	}
 
-IL_0036:
+IL_0040:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:189>
 		return;
 	}
 }
-// Method Definition Index: 80668
+// Method Definition Index: 82731
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_HideMenu_mF7B36C1B86A31F383280EB20754E9176D2204493 (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2226,7 +2320,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_HideMenu_mF7B36C1B86
 		return;
 	}
 }
-// Method Definition Index: 80669
+// Method Definition Index: 82732
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_DeleteFocusedObject_m667D1CB386D6C76BC4D808BA66AA22FCD519C172 (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2237,57 +2331,63 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager_DeleteFocusedObject_
 		s_Il2CppMethodInitialized = true;
 	}
 	RuntimeObject* V_0 = NULL;
+	bool V_1 = false;
+	bool V_2 = false;
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:202>
 		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_0 = __this->___m_InteractionGroup;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
 		L_1 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_0, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_1)
+		V_1 = L_1;
+		bool L_2 = V_1;
+		if (!L_2)
 		{
-			goto IL_000f;
+			goto IL_0013;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:203>
-		return;
+		goto IL_003a;
 	}
 
-IL_000f:
+IL_0013:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:205>
-		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_2 = __this->___m_InteractionGroup;
-		NullCheck(L_2);
-		RuntimeObject* L_3;
-		L_3 = XRInteractionGroup_get_focusInteractable_m1EAC5783216B14458479D0E43708E18A8CE95A61_inline(L_2, NULL);
-		V_0 = L_3;
+		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_3 = __this->___m_InteractionGroup;
+		NullCheck(L_3);
+		RuntimeObject* L_4;
+		L_4 = XRInteractionGroup_get_focusInteractable_m1EAC5783216B14458479D0E43708E18A8CE95A61_inline(L_3, NULL);
+		V_0 = L_4;
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:206>
-		RuntimeObject* L_4 = V_0;
-		if (!L_4)
+		RuntimeObject* L_5 = V_0;
+		V_2 = (bool)((!(((RuntimeObject*)(RuntimeObject*)L_5) <= ((RuntimeObject*)(RuntimeObject*)NULL)))? 1 : 0);
+		bool L_6 = V_2;
+		if (!L_6)
 		{
-			goto IL_002e;
+			goto IL_003a;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:208>
-		RuntimeObject* L_5 = V_0;
-		NullCheck(L_5);
-		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_6;
-		L_6 = InterfaceFuncInvoker0< Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* >::Invoke(6, IXRInteractable_t094DA697CF40A061C2820FDE5B5838D08D7E9609_il2cpp_TypeInfo_var, L_5);
-		NullCheck(L_6);
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_7;
-		L_7 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_6, NULL);
+		RuntimeObject* L_7 = V_0;
+		NullCheck(L_7);
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_8;
+		L_8 = InterfaceFuncInvoker0< Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* >::Invoke(6, IXRInteractable_t094DA697CF40A061C2820FDE5B5838D08D7E9609_il2cpp_TypeInfo_var, L_7);
+		NullCheck(L_8);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_9;
+		L_9 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_8, NULL);
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		Object_Destroy_mE97D0A766419A81296E8D4E5C23D01D3FE91ACBB(L_7, NULL);
+		Object_Destroy_mE97D0A766419A81296E8D4E5C23D01D3FE91ACBB(L_9, NULL);
 	}
 
-IL_002e:
+IL_003a:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/ARDemoSceneAssets/Scripts/ARSampleMenuManager.cs:210>
 		return;
 	}
 }
-// Method Definition Index: 80670
+// Method Definition Index: 82733
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager__ctor_mCF5291AA83BBB23C1BD7D998D987713111DF9F38 (ARSampleMenuManager_t430D746985FAFB3C872592524116CC71BEAC8834* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2323,7 +2423,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARSampleMenuManager__ctor_mCF5291AA83BBB
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 80671
+// Method Definition Index: 82734
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ARContactSpawnTrigger_get_blockSpawnDuringInteraction_mD11E4CD30CCEE400A3486AB5C52618646B9E8A6E (ARContactSpawnTrigger_tD8F640BDF4DDE156DDC4531321BC98B245945267* __this, const RuntimeMethod* method) 
 {
 	{
@@ -2332,7 +2432,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ARContactSpawnTrigger_get_blockSpawnDuri
 		return L_0;
 	}
 }
-// Method Definition Index: 80672
+// Method Definition Index: 82735
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger_set_blockSpawnDuringInteraction_m1CB7CC276662F8A18C4CCFB6FCBE93DEBC7D0F75 (ARContactSpawnTrigger_tD8F640BDF4DDE156DDC4531321BC98B245945267* __this, bool ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -2342,7 +2442,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger_set_blockSpawnDuri
 		return;
 	}
 }
-// Method Definition Index: 80673
+// Method Definition Index: 82736
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* ARContactSpawnTrigger_get_interactionGroup_mEE0B3BEC9D211447A8E8381720B8D34392F01A95 (ARContactSpawnTrigger_tD8F640BDF4DDE156DDC4531321BC98B245945267* __this, const RuntimeMethod* method) 
 {
 	{
@@ -2351,7 +2451,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR XRInteractionGroup_tC4826C686618B4D279303C4A8
 		return L_0;
 	}
 }
-// Method Definition Index: 80674
+// Method Definition Index: 82737
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger_set_interactionGroup_mFED15C1DF6E550642C7E4DB3D464BB28E0F0FD04 (ARContactSpawnTrigger_tD8F640BDF4DDE156DDC4531321BC98B245945267* __this, XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -2362,7 +2462,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger_set_interactionGro
 		return;
 	}
 }
-// Method Definition Index: 80675
+// Method Definition Index: 82738
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ARContactSpawnTrigger_get_requireHorizontalUpSurface_m9EE11B8D8C61179F363CDDA494749D2C3A4A25CB (ARContactSpawnTrigger_tD8F640BDF4DDE156DDC4531321BC98B245945267* __this, const RuntimeMethod* method) 
 {
 	{
@@ -2371,7 +2471,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ARContactSpawnTrigger_get_requireHorizon
 		return L_0;
 	}
 }
-// Method Definition Index: 80676
+// Method Definition Index: 82739
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger_set_requireHorizontalUpSurface_mABB28337501D6F7431B42BF45E3E1B3158636F92 (ARContactSpawnTrigger_tD8F640BDF4DDE156DDC4531321BC98B245945267* __this, bool ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -2381,7 +2481,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger_set_requireHorizon
 		return;
 	}
 }
-// Method Definition Index: 80677
+// Method Definition Index: 82740
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR UnityEvent_2_t9A9D1504EA6A1981D63E2CB9B51C65C26A484916* ARContactSpawnTrigger_get_objectSpawnTriggered_mC57564087D588DAB4BED52DF2F416BB9A5899B90 (ARContactSpawnTrigger_tD8F640BDF4DDE156DDC4531321BC98B245945267* __this, const RuntimeMethod* method) 
 {
 	{
@@ -2390,7 +2490,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR UnityEvent_2_t9A9D1504EA6A1981D63E2CB9B51C65C
 		return L_0;
 	}
 }
-// Method Definition Index: 80678
+// Method Definition Index: 82741
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger_set_objectSpawnTriggered_m29516231DE7E41B3D0B5A6E93383ED9C7FBA235B (ARContactSpawnTrigger_tD8F640BDF4DDE156DDC4531321BC98B245945267* __this, UnityEvent_2_t9A9D1504EA6A1981D63E2CB9B51C65C26A484916* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -2401,7 +2501,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger_set_objectSpawnTri
 		return;
 	}
 }
-// Method Definition Index: 80679
+// Method Definition Index: 82742
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger_Start_mBCEEE25BEA0A2E30A2BB26916C651E37004D75A7 (ARContactSpawnTrigger_tD8F640BDF4DDE156DDC4531321BC98B245945267* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2413,38 +2513,56 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger_Start_mBCEEE25BEA0
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral2886683CBFAB378137E333218F3E9E1F6D3166D9);
 		s_Il2CppMethodInitialized = true;
 	}
+	bool V_0 = false;
+	bool V_1 = false;
+	int32_t G_B4_0 = 0;
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:79>
 		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_0 = __this->___m_InteractionGroup;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
 		L_1 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_0, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_1)
+		V_0 = L_1;
+		bool L_2 = V_0;
+		if (!L_2)
 		{
-			goto IL_003b;
+			goto IL_0046;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:81>
-		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_2;
-		L_2 = Component_GetComponentInParent_TisXRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C_m791EBC09C722A116C7BFF5B559D86A02E9F9C7AB(__this, Component_GetComponentInParent_TisXRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C_m791EBC09C722A116C7BFF5B559D86A02E9F9C7AB_RuntimeMethod_var);
-		__this->___m_InteractionGroup = L_2;
-		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_InteractionGroup), (void*)L_2);
+		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_3;
+		L_3 = Component_GetComponentInParent_TisXRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C_m791EBC09C722A116C7BFF5B559D86A02E9F9C7AB(__this, Component_GetComponentInParent_TisXRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C_m791EBC09C722A116C7BFF5B559D86A02E9F9C7AB_RuntimeMethod_var);
+		__this->___m_InteractionGroup = L_3;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_InteractionGroup), (void*)L_3);
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:83>
-		bool L_3 = __this->___m_BlockSpawnDuringInteraction;
-		if (!L_3)
+		bool L_4 = __this->___m_BlockSpawnDuringInteraction;
+		if (!L_4)
 		{
-			goto IL_003b;
+			goto IL_0034;
 		}
 	}
 	{
-		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_4 = __this->___m_InteractionGroup;
+		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_5 = __this->___m_InteractionGroup;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_5;
-		L_5 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_4, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_5)
+		bool L_6;
+		L_6 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_5, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		G_B4_0 = ((int32_t)(L_6));
+		goto IL_0035;
+	}
+
+IL_0034:
+	{
+		G_B4_0 = 0;
+	}
+
+IL_0035:
+	{
+		V_1 = (bool)G_B4_0;
+		bool L_7 = V_1;
+		if (!L_7)
 		{
-			goto IL_003b;
+			goto IL_0045;
 		}
 	}
 	{
@@ -2453,13 +2571,17 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger_Start_mBCEEE25BEA0
 		Debug_LogWarning_m23033D7E2F0F298BE465B7F3A63CDF40A4EB70EB(_stringLiteral2886683CBFAB378137E333218F3E9E1F6D3166D9, __this, NULL);
 	}
 
-IL_003b:
+IL_0045:
+	{
+	}
+
+IL_0046:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:86>
 		return;
 	}
 }
-// Method Definition Index: 80680
+// Method Definition Index: 82743
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger_OnTriggerEnter_mCBB5A482AC1A67A34DD44EA86EFF45BD6674BB08 (ARContactSpawnTrigger_tD8F640BDF4DDE156DDC4531321BC98B245945267* __this, Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* ___0_other, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2476,6 +2598,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger_OnTriggerEnter_mCB
 	memset((&V_2), 0, sizeof(V_2));
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_3;
 	memset((&V_3), 0, sizeof(V_3));
+	bool V_4 = false;
+	int32_t G_B4_0 = 0;
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:93>
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:94>
@@ -2483,7 +2607,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger_OnTriggerEnter_mCB
 		L_0 = ARContactSpawnTrigger_get_blockSpawnDuringInteraction_mD11E4CD30CCEE400A3486AB5C52618646B9E8A6E_inline(__this, NULL);
 		if (!L_0)
 		{
-			goto IL_0010;
+			goto IL_0011;
 		}
 	}
 	{
@@ -2491,53 +2615,68 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger_OnTriggerEnter_mCB
 		L_1 = ARContactSpawnTrigger_IsInteractionBlockingSpawn_m0787FDA22DF53672E72AF1A573F1BD89A8B4550A(__this, NULL);
 		if (L_1)
 		{
-			goto IL_001d;
+			goto IL_0021;
 		}
 	}
 
-IL_0010:
+IL_0011:
 	{
 		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_2 = ___0_other;
 		bool L_3;
 		L_3 = ARContactSpawnTrigger_TryGetSpawnSurfaceData_mC4FFEBA61C40C358542A37173B802B37B77138FD(__this, L_2, (&V_0), (&V_1), NULL);
-		if (L_3)
+		G_B4_0 = ((((int32_t)L_3) == ((int32_t)0))? 1 : 0);
+		goto IL_0022;
+	}
+
+IL_0021:
+	{
+		G_B4_0 = 1;
+	}
+
+IL_0022:
+	{
+		V_4 = (bool)G_B4_0;
+		bool L_4 = V_4;
+		if (!L_4)
 		{
-			goto IL_001e;
+			goto IL_002a;
 		}
 	}
-
-IL_001d:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:95>
-		return;
+		goto IL_0054;
 	}
 
-IL_001e:
+IL_002a:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:97>
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_4 = V_1;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_5 = V_0;
-		Plane__ctor_m2BFB65EBFF51123791878684ECC375B99FAD10A2_inline((&V_2), L_4, L_5, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_5 = V_1;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_6 = V_0;
+		Plane__ctor_m2BFB65EBFF51123791878684ECC375B99FAD10A2_inline((&V_2), L_5, L_6, NULL);
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:98>
-		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_6;
-		L_6 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
-		NullCheck(L_6);
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_7;
-		L_7 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_6, NULL);
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_7;
+		L_7 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
+		NullCheck(L_7);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_8;
-		L_8 = Plane_ClosestPointOnPlane_m5350637BF436E1B5039D8AC09E7AADA126E85A84_inline((&V_2), L_7, NULL);
-		V_3 = L_8;
+		L_8 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_7, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_9;
+		L_9 = Plane_ClosestPointOnPlane_m5350637BF436E1B5039D8AC09E7AADA126E85A84_inline((&V_2), L_8, NULL);
+		V_3 = L_9;
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:99>
-		UnityEvent_2_t9A9D1504EA6A1981D63E2CB9B51C65C26A484916* L_9 = __this->___m_ObjectSpawnTriggered;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_10 = V_3;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_11 = V_1;
-		NullCheck(L_9);
-		UnityEvent_2_Invoke_m02E8D9DEBFED1D5B637E81F4F540EA74BC1EBC35(L_9, L_10, L_11, UnityEvent_2_Invoke_m02E8D9DEBFED1D5B637E81F4F540EA74BC1EBC35_RuntimeMethod_var);
+		UnityEvent_2_t9A9D1504EA6A1981D63E2CB9B51C65C26A484916* L_10 = __this->___m_ObjectSpawnTriggered;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_11 = V_3;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_12 = V_1;
+		NullCheck(L_10);
+		UnityEvent_2_Invoke_m02E8D9DEBFED1D5B637E81F4F540EA74BC1EBC35(L_10, L_11, L_12, UnityEvent_2_Invoke_m02E8D9DEBFED1D5B637E81F4F540EA74BC1EBC35_RuntimeMethod_var);
+	}
+
+IL_0054:
+	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:100>
 		return;
 	}
 }
-// Method Definition Index: 80681
+// Method Definition Index: 82744
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ARContactSpawnTrigger_TryGetSpawnSurfaceData_mC4FFEBA61C40C358542A37173B802B37B77138FD (ARContactSpawnTrigger_tD8F640BDF4DDE156DDC4531321BC98B245945267* __this, Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* ___0_objectCollider, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___1_surfacePosition, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___2_surfaceNormal, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2548,6 +2687,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ARContactSpawnTrigger_TryGetSpawnSurface
 		s_Il2CppMethodInitialized = true;
 	}
 	ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0* V_0 = NULL;
+	bool V_1 = false;
+	bool V_2 = false;
+	bool V_3 = false;
+	int32_t G_B5_0 = 0;
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:112>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* L_0 = ___1_surfacePosition;
@@ -2566,61 +2709,86 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ARContactSpawnTrigger_TryGetSpawnSurface
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_5;
 		L_5 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_4, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_5)
+		V_1 = L_5;
+		bool L_6 = V_1;
+		if (!L_6)
 		{
-			goto IL_0020;
+			goto IL_0025;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:117>
-		return (bool)0;
+		V_2 = (bool)0;
+		goto IL_0061;
 	}
 
-IL_0020:
+IL_0025:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:119>
-		bool L_6 = __this->___m_RequireHorizontalUpSurface;
-		if (!L_6)
+		bool L_7 = __this->___m_RequireHorizontalUpSurface;
+		if (!L_7)
 		{
-			goto IL_0034;
+			goto IL_003c;
 		}
 	}
 	{
-		ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0* L_7 = V_0;
-		NullCheck(L_7);
-		int32_t L_8;
-		L_8 = ARPlane_get_alignment_mBEF1BCDE0A964ADAE4E5F477BD4C961CA8849EC1(L_7, NULL);
-		if ((((int32_t)L_8) == ((int32_t)((int32_t)100))))
+		ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0* L_8 = V_0;
+		NullCheck(L_8);
+		int32_t L_9;
+		L_9 = ARPlane_get_alignment_mBEF1BCDE0A964ADAE4E5F477BD4C961CA8849EC1(L_8, NULL);
+		G_B5_0 = ((((int32_t)((((int32_t)L_9) == ((int32_t)((int32_t)100)))? 1 : 0)) == ((int32_t)0))? 1 : 0);
+		goto IL_003d;
+	}
+
+IL_003c:
+	{
+		G_B5_0 = 0;
+	}
+
+IL_003d:
+	{
+		V_3 = (bool)G_B5_0;
+		bool L_10 = V_3;
+		if (!L_10)
 		{
-			goto IL_0034;
+			goto IL_0045;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:120>
-		return (bool)0;
+		V_2 = (bool)0;
+		goto IL_0061;
 	}
 
-IL_0034:
+IL_0045:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:122>
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* L_9 = ___2_surfaceNormal;
-		ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0* L_10 = V_0;
-		NullCheck(L_10);
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_11;
-		L_11 = ARPlane_get_normal_m12A4F62B15333D04011C0DBD6377FA1E9B3C60B7(L_10, NULL);
-		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_9 = L_11;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* L_11 = ___2_surfaceNormal;
+		ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0* L_12 = V_0;
+		NullCheck(L_12);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_13;
+		L_13 = ARPlane_get_normal_m12A4F62B15333D04011C0DBD6377FA1E9B3C60B7(L_12, NULL);
+		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_11 = L_13;
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:123>
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* L_12 = ___1_surfacePosition;
-		ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0* L_13 = V_0;
-		NullCheck(L_13);
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_14;
-		L_14 = ARPlane_get_center_mB33D672F5673C29616BC46AC56AF1276D5A627CC(L_13, NULL);
-		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_12 = L_14;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* L_14 = ___1_surfacePosition;
+		ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0* L_15 = V_0;
+		NullCheck(L_15);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_16;
+		L_16 = ARPlane_get_center_mB33D672F5673C29616BC46AC56AF1276D5A627CC(L_15, NULL);
+		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_14 = L_16;
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:124>
-		return (bool)1;
+		V_2 = (bool)1;
+		goto IL_0061;
+	}
+
+IL_0061:
+	{
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:125>
+		bool L_17 = V_2;
+		return L_17;
 	}
 }
-// Method Definition Index: 80682
+// Method Definition Index: 82745
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ARContactSpawnTrigger_IsInteractionBlockingSpawn_m0787FDA22DF53672E72AF1A573F1BD89A8B4550A (ARContactSpawnTrigger_tD8F640BDF4DDE156DDC4531321BC98B245945267* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2631,14 +2799,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ARContactSpawnTrigger_IsInteractionBlock
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
-	RuntimeObject* V_0 = NULL;
+	bool V_0 = false;
 	RuntimeObject* V_1 = NULL;
-	bool V_2 = false;
-	int32_t G_B5_0 = 0;
+	RuntimeObject* V_2 = NULL;
+	bool V_3 = false;
+	bool V_4 = false;
+	bool V_5 = false;
+	int32_t G_B3_0 = 0;
 	int32_t G_B7_0 = 0;
-	int32_t G_B6_0 = 0;
-	int32_t G_B8_0 = 0;
-	int32_t G_B8_1 = 0;
+	int32_t G_B10_0 = 0;
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:129>
 		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_0 = __this->___m_InteractionGroup;
@@ -2647,7 +2816,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ARContactSpawnTrigger_IsInteractionBlock
 		L_1 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_0, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_1)
 		{
-			goto IL_0059;
+			goto IL_001f;
 		}
 	}
 	{
@@ -2655,87 +2824,107 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ARContactSpawnTrigger_IsInteractionBlock
 		NullCheck(L_2);
 		RuntimeObject* L_3;
 		L_3 = XRInteractionGroup_get_activeInteractor_m7A115196A9AD3143C5479EF571503ECCCDC2342C_inline(L_2, NULL);
-		if (!L_3)
+		G_B3_0 = ((!(((RuntimeObject*)(RuntimeObject*)L_3) <= ((RuntimeObject*)(RuntimeObject*)NULL)))? 1 : 0);
+		goto IL_0020;
+	}
+
+IL_001f:
+	{
+		G_B3_0 = 0;
+	}
+
+IL_0020:
+	{
+		V_0 = (bool)G_B3_0;
+		bool L_4 = V_0;
+		if (!L_4)
 		{
-			goto IL_0059;
+			goto IL_006a;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:131>
-		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_4 = __this->___m_InteractionGroup;
-		NullCheck(L_4);
-		RuntimeObject* L_5;
-		L_5 = XRInteractionGroup_get_activeInteractor_m7A115196A9AD3143C5479EF571503ECCCDC2342C_inline(L_4, NULL);
-		V_0 = ((RuntimeObject*)Castclass((RuntimeObject*)L_5, IXRHoverInteractor_t2BC0873850544D16673EAE16AFFA2E8FF92E50BE_il2cpp_TypeInfo_var));
+		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_5 = __this->___m_InteractionGroup;
+		NullCheck(L_5);
+		RuntimeObject* L_6;
+		L_6 = XRInteractionGroup_get_activeInteractor_m7A115196A9AD3143C5479EF571503ECCCDC2342C_inline(L_5, NULL);
+		V_1 = ((RuntimeObject*)Castclass((RuntimeObject*)L_6, IXRHoverInteractor_t2BC0873850544D16673EAE16AFFA2E8FF92E50BE_il2cpp_TypeInfo_var));
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:132>
-		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_6 = __this->___m_InteractionGroup;
-		NullCheck(L_6);
-		RuntimeObject* L_7;
-		L_7 = XRInteractionGroup_get_activeInteractor_m7A115196A9AD3143C5479EF571503ECCCDC2342C_inline(L_6, NULL);
-		V_1 = ((RuntimeObject*)Castclass((RuntimeObject*)L_7, IXRSelectInteractor_tF89F25345282BDE348CC5A11BBACE44810BD29CC_il2cpp_TypeInfo_var));
+		XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* L_7 = __this->___m_InteractionGroup;
+		NullCheck(L_7);
+		RuntimeObject* L_8;
+		L_8 = XRInteractionGroup_get_activeInteractor_m7A115196A9AD3143C5479EF571503ECCCDC2342C_inline(L_7, NULL);
+		V_2 = ((RuntimeObject*)Castclass((RuntimeObject*)L_8, IXRSelectInteractor_tF89F25345282BDE348CC5A11BBACE44810BD29CC_il2cpp_TypeInfo_var));
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:133>
-		RuntimeObject* L_8 = V_0;
-		if (!L_8)
+		RuntimeObject* L_9 = V_1;
+		if (!L_9)
 		{
-			goto IL_0048;
+			goto IL_0052;
 		}
 	}
 	{
-		RuntimeObject* L_9 = V_0;
-		NullCheck(L_9);
-		bool L_10;
-		L_10 = InterfaceFuncInvoker0< bool >::Invoke(3, IXRHoverInteractor_t2BC0873850544D16673EAE16AFFA2E8FF92E50BE_il2cpp_TypeInfo_var, L_9);
-		G_B5_0 = ((int32_t)(L_10));
-		goto IL_0049;
+		RuntimeObject* L_10 = V_1;
+		NullCheck(L_10);
+		bool L_11;
+		L_11 = InterfaceFuncInvoker0< bool >::Invoke(3, IXRHoverInteractor_t2BC0873850544D16673EAE16AFFA2E8FF92E50BE_il2cpp_TypeInfo_var, L_10);
+		G_B7_0 = ((int32_t)(L_11));
+		goto IL_0053;
 	}
 
-IL_0048:
+IL_0052:
 	{
-		G_B5_0 = 0;
+		G_B7_0 = 0;
 	}
 
-IL_0049:
+IL_0053:
 	{
+		V_3 = (bool)G_B7_0;
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:134>
-		RuntimeObject* L_11 = V_1;
-		if (!L_11)
+		RuntimeObject* L_12 = V_2;
+		if (!L_12)
 		{
-			G_B7_0 = G_B5_0;
-			goto IL_0054;
+			goto IL_005f;
 		}
-		G_B6_0 = G_B5_0;
 	}
 	{
-		RuntimeObject* L_12 = V_1;
-		NullCheck(L_12);
-		bool L_13;
-		L_13 = InterfaceFuncInvoker0< bool >::Invoke(4, IXRSelectInteractor_tF89F25345282BDE348CC5A11BBACE44810BD29CC_il2cpp_TypeInfo_var, L_12);
-		G_B8_0 = ((int32_t)(L_13));
-		G_B8_1 = G_B6_0;
-		goto IL_0055;
+		RuntimeObject* L_13 = V_2;
+		NullCheck(L_13);
+		bool L_14;
+		L_14 = InterfaceFuncInvoker0< bool >::Invoke(4, IXRSelectInteractor_tF89F25345282BDE348CC5A11BBACE44810BD29CC_il2cpp_TypeInfo_var, L_13);
+		G_B10_0 = ((int32_t)(L_14));
+		goto IL_0060;
 	}
 
-IL_0054:
+IL_005f:
 	{
-		G_B8_0 = 0;
-		G_B8_1 = G_B7_0;
+		G_B10_0 = 0;
 	}
 
-IL_0055:
+IL_0060:
 	{
-		V_2 = (bool)G_B8_0;
+		V_4 = (bool)G_B10_0;
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:135>
-		bool L_14 = V_2;
-		return (bool)((int32_t)(G_B8_1|(int32_t)L_14));
+		bool L_15 = V_3;
+		bool L_16 = V_4;
+		V_5 = (bool)((int32_t)((int32_t)L_15|(int32_t)L_16));
+		goto IL_006f;
 	}
 
-IL_0059:
+IL_006a:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:138>
-		return (bool)0;
+		V_5 = (bool)0;
+		goto IL_006f;
+	}
+
+IL_006f:
+	{
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARContactSpawnTrigger.cs:139>
+		bool L_17 = V_5;
+		return L_17;
 	}
 }
-// Method Definition Index: 80683
+// Method Definition Index: 82746
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger__ctor_mD25FB3EFCF4C042E3972AA861634824006FFFF15 (ARContactSpawnTrigger_tD8F640BDF4DDE156DDC4531321BC98B245945267* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2763,16 +2952,25 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARContactSpawnTrigger__ctor_mD25FB3EFCF4
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 80684
+// Method Definition Index: 82747
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float ARFeatheredPlaneMeshVisualizer_get_featheringWidth_m2E50FB2F2394BF511A66CB70C282F3D31177921F (ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48* __this, const RuntimeMethod* method) 
 {
+	float V_0 = 0.0f;
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:25>
 		float L_0 = __this->___m_FeatheringWidth;
-		return L_0;
+		V_0 = L_0;
+		goto IL_000a;
+	}
+
+IL_000a:
+	{
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:25>
+		float L_1 = V_0;
+		return L_1;
 	}
 }
-// Method Definition Index: 80685
+// Method Definition Index: 82748
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer_set_featheringWidth_mB294FAE8680A88A097AF8F2F37162A8E153F3DA6 (ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48* __this, float ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -2783,7 +2981,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer_set_feath
 		return;
 	}
 }
-// Method Definition Index: 80686
+// Method Definition Index: 82749
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer_Awake_m513CB21DC3F7043BF3AE4F233B734624F63A89FC (ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2817,7 +3015,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer_Awake_m51
 		return;
 	}
 }
-// Method Definition Index: 80687
+// Method Definition Index: 82750
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer_OnEnable_m9644563ED43A8AC4FF453C1C4FBCAB0979CBC96E (ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2838,7 +3036,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer_OnEnable_
 		return;
 	}
 }
-// Method Definition Index: 80688
+// Method Definition Index: 82751
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer_OnDisable_m9D96C071D077108E394C3700CFE4CBD0D79EFC73 (ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2859,7 +3057,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer_OnDisable
 		return;
 	}
 }
-// Method Definition Index: 80689
+// Method Definition Index: 82752
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer_ARPlane_boundaryUpdated_m59B0E1533509EBCF5427D3BA2D879612C59F9EF0 (ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48* __this, ARPlaneBoundaryChangedEventArgs_tE59EDE94575C8947AD3F1F8DA1370D0A426A5FFC ___0_eventArgs, const RuntimeMethod* method) 
 {
 	{
@@ -2873,7 +3071,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer_ARPlane_b
 		return;
 	}
 }
-// Method Definition Index: 80690
+// Method Definition Index: 82753
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer_GenerateBoundaryUVs_mE7D48832D82B1F125A77C96A42E90DF1BC227796 (ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48* __this, Mesh_t6D9C539763A09BC2B12AEAEF36F6DFFC98AE63D4* ___0_mesh, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2895,8 +3093,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer_GenerateB
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_2;
 	memset((&V_2), 0, sizeof(V_2));
 	float V_3 = 0.0f;
-	int32_t V_4 = 0;
-	float V_5 = 0.0f;
+	bool V_4 = false;
+	int32_t V_5 = 0;
+	float V_6 = 0.0f;
+	float V_7 = 0.0f;
+	bool V_8 = false;
+	bool V_9 = false;
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:63>
 		Mesh_t6D9C539763A09BC2B12AEAEF36F6DFFC98AE63D4* L_0 = ___0_mesh;
@@ -2915,134 +3117,142 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer_GenerateB
 		int32_t L_4;
 		L_4 = List_1_get_Capacity_m1810FC505867C713DCDDD7468F8BA2BF1DF0D3B6(L_3, List_1_get_Capacity_m1810FC505867C713DCDDD7468F8BA2BF1DF0D3B6_RuntimeMethod_var);
 		int32_t L_5 = V_0;
-		if ((((int32_t)L_4) >= ((int32_t)L_5)))
+		V_4 = (bool)((((int32_t)L_4) < ((int32_t)L_5))? 1 : 0);
+		bool L_6 = V_4;
+		if (!L_6)
 		{
-			goto IL_0029;
+			goto IL_0034;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:67>
 		il2cpp_codegen_runtime_class_init_inline(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var);
-		List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* L_6 = ((ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_StaticFields*)il2cpp_codegen_static_fields_for(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var))->___s_FeatheringUVs;
-		int32_t L_7 = V_0;
-		NullCheck(L_6);
-		List_1_set_Capacity_mF3F5104AB534524CF6D04659241FBD48C9080FFE(L_6, L_7, List_1_set_Capacity_mF3F5104AB534524CF6D04659241FBD48C9080FFE_RuntimeMethod_var);
+		List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* L_7 = ((ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_StaticFields*)il2cpp_codegen_static_fields_for(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var))->___s_FeatheringUVs;
+		int32_t L_8 = V_0;
+		NullCheck(L_7);
+		List_1_set_Capacity_mF3F5104AB534524CF6D04659241FBD48C9080FFE(L_7, L_8, List_1_set_Capacity_mF3F5104AB534524CF6D04659241FBD48C9080FFE_RuntimeMethod_var);
 	}
 
-IL_0029:
+IL_0034:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:69>
-		Mesh_t6D9C539763A09BC2B12AEAEF36F6DFFC98AE63D4* L_8 = ___0_mesh;
+		Mesh_t6D9C539763A09BC2B12AEAEF36F6DFFC98AE63D4* L_9 = ___0_mesh;
 		il2cpp_codegen_runtime_class_init_inline(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var);
-		List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* L_9 = ((ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_StaticFields*)il2cpp_codegen_static_fields_for(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var))->___s_Vertices;
-		NullCheck(L_8);
-		Mesh_GetVertices_m5BF8777074E383AD8C4B9974D27E4AB52963D92E(L_8, L_9, NULL);
-		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:71>
 		List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* L_10 = ((ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_StaticFields*)il2cpp_codegen_static_fields_for(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var))->___s_Vertices;
+		NullCheck(L_9);
+		Mesh_GetVertices_m5BF8777074E383AD8C4B9974D27E4AB52963D92E(L_9, L_10, NULL);
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:71>
 		List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* L_11 = ((ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_StaticFields*)il2cpp_codegen_static_fields_for(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var))->___s_Vertices;
+		List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* L_12 = ((ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_StaticFields*)il2cpp_codegen_static_fields_for(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var))->___s_Vertices;
+		NullCheck(L_12);
+		int32_t L_13;
+		L_13 = List_1_get_Count_m46EEFFA770BE665EA0CB3A5332E941DA4B3C1D37_inline(L_12, List_1_get_Count_m46EEFFA770BE665EA0CB3A5332E941DA4B3C1D37_RuntimeMethod_var);
 		NullCheck(L_11);
-		int32_t L_12;
-		L_12 = List_1_get_Count_m46EEFFA770BE665EA0CB3A5332E941DA4B3C1D37_inline(L_11, List_1_get_Count_m46EEFFA770BE665EA0CB3A5332E941DA4B3C1D37_RuntimeMethod_var);
-		NullCheck(L_10);
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_13;
-		L_13 = List_1_get_Item_m8F2E15FC96DA75186C51228128A0660709E4E810(L_10, ((int32_t)il2cpp_codegen_subtract(L_12, 1)), List_1_get_Item_m8F2E15FC96DA75186C51228128A0660709E4E810_RuntimeMethod_var);
-		V_1 = L_13;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_14;
+		L_14 = List_1_get_Item_m8F2E15FC96DA75186C51228128A0660709E4E810(L_11, ((int32_t)il2cpp_codegen_subtract(L_13, 1)), List_1_get_Item_m8F2E15FC96DA75186C51228128A0660709E4E810_RuntimeMethod_var);
+		V_1 = L_14;
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:72>
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&V_2), (0.0f), (0.0f), (0.0f), NULL);
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:73>
 		V_3 = ((std::numeric_limits<float>::max)());
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:76>
-		V_4 = 0;
-		goto IL_00b5;
+		V_5 = 0;
+		goto IL_00d1;
 	}
 
-IL_006c:
+IL_0078:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:78>
 		il2cpp_codegen_runtime_class_init_inline(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var);
-		List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* L_14 = ((ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_StaticFields*)il2cpp_codegen_static_fields_for(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var))->___s_Vertices;
-		int32_t L_15 = V_4;
-		NullCheck(L_14);
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_16;
-		L_16 = List_1_get_Item_m8F2E15FC96DA75186C51228128A0660709E4E810(L_14, L_15, List_1_get_Item_m8F2E15FC96DA75186C51228128A0660709E4E810_RuntimeMethod_var);
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_17 = V_1;
-		float L_18;
-		L_18 = Vector3_Distance_m2314DB9B8BD01157E013DF87BEA557375C7F9FF9_inline(L_16, L_17, NULL);
+		List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* L_15 = ((ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_StaticFields*)il2cpp_codegen_static_fields_for(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var))->___s_Vertices;
+		int32_t L_16 = V_5;
+		NullCheck(L_15);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_17;
+		L_17 = List_1_get_Item_m8F2E15FC96DA75186C51228128A0660709E4E810(L_15, L_16, List_1_get_Item_m8F2E15FC96DA75186C51228128A0660709E4E810_RuntimeMethod_var);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_18 = V_1;
+		float L_19;
+		L_19 = Vector3_Distance_m2314DB9B8BD01157E013DF87BEA557375C7F9FF9_inline(L_17, L_18, NULL);
+		V_6 = L_19;
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:83>
-		float L_19 = L_18;
-		float L_20;
-		L_20 = ARFeatheredPlaneMeshVisualizer_get_featheringWidth_m2E50FB2F2394BF511A66CB70C282F3D31177921F_inline(__this, NULL);
-		float L_21;
-		L_21 = Mathf_Max_mF5379E63D2BBAC76D090748695D833934F8AD051_inline(((float)il2cpp_codegen_subtract(L_19, L_20)), (0.00100000005f), NULL);
-		V_5 = ((float)(L_19/L_21));
+		float L_20 = V_6;
+		float L_21 = V_6;
+		float L_22;
+		L_22 = ARFeatheredPlaneMeshVisualizer_get_featheringWidth_m2E50FB2F2394BF511A66CB70C282F3D31177921F(__this, NULL);
+		float L_23;
+		L_23 = Mathf_Max_mF5379E63D2BBAC76D090748695D833934F8AD051_inline(((float)il2cpp_codegen_subtract(L_21, L_22)), (0.00100000005f), NULL);
+		V_7 = ((float)(L_20/L_23));
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:84>
-		float L_22 = V_5;
-		(&V_2)->___x = L_22;
+		float L_24 = V_7;
+		(&V_2)->___x = L_24;
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:89>
-		float L_23 = V_3;
-		float L_24 = V_5;
-		if ((!(((float)L_23) > ((float)L_24))))
+		float L_25 = V_3;
+		float L_26 = V_7;
+		V_8 = (bool)((((float)L_25) > ((float)L_26))? 1 : 0);
+		bool L_27 = V_8;
+		if (!L_27)
 		{
-			goto IL_00a4;
+			goto IL_00be;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:89>
-		float L_25 = V_5;
-		V_3 = L_25;
+		float L_28 = V_7;
+		V_3 = L_28;
 	}
 
-IL_00a4:
+IL_00be:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:91>
 		il2cpp_codegen_runtime_class_init_inline(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var);
-		List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* L_26 = ((ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_StaticFields*)il2cpp_codegen_static_fields_for(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var))->___s_FeatheringUVs;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_27 = V_2;
-		NullCheck(L_26);
-		List_1_Add_m79E50C4F592B1703F4B76A8BE7B4855515460CA1_inline(L_26, L_27, List_1_Add_m79E50C4F592B1703F4B76A8BE7B4855515460CA1_RuntimeMethod_var);
+		List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* L_29 = ((ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_StaticFields*)il2cpp_codegen_static_fields_for(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var))->___s_FeatheringUVs;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_30 = V_2;
+		NullCheck(L_29);
+		List_1_Add_m79E50C4F592B1703F4B76A8BE7B4855515460CA1_inline(L_29, L_30, List_1_Add_m79E50C4F592B1703F4B76A8BE7B4855515460CA1_RuntimeMethod_var);
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:76>
-		int32_t L_28 = V_4;
-		V_4 = ((int32_t)il2cpp_codegen_add(L_28, 1));
+		int32_t L_31 = V_5;
+		V_5 = ((int32_t)il2cpp_codegen_add(L_31, 1));
 	}
 
-IL_00b5:
+IL_00d1:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:76>
-		int32_t L_29 = V_4;
-		int32_t L_30 = V_0;
-		if ((((int32_t)L_29) < ((int32_t)((int32_t)il2cpp_codegen_subtract(L_30, 1)))))
+		int32_t L_32 = V_5;
+		int32_t L_33 = V_0;
+		V_9 = (bool)((((int32_t)L_32) < ((int32_t)((int32_t)il2cpp_codegen_subtract(L_33, 1))))? 1 : 0);
+		bool L_34 = V_9;
+		if (L_34)
 		{
-			goto IL_006c;
+			goto IL_0078;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:94>
-		Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* L_31 = __this->___m_FeatheredPlaneMaterial;
-		float L_32 = V_3;
-		NullCheck(L_31);
-		Material_SetFloat_m879CF81D740BAE6F23C9822400679F4D16365836(L_31, _stringLiteral131018280018B48DB9FF86A96C7535E6FA339C24, L_32, NULL);
+		Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* L_35 = __this->___m_FeatheredPlaneMaterial;
+		float L_36 = V_3;
+		NullCheck(L_35);
+		Material_SetFloat_m879CF81D740BAE6F23C9822400679F4D16365836(L_35, _stringLiteral131018280018B48DB9FF86A96C7535E6FA339C24, L_36, NULL);
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:97>
 		Vector3_Set_m1C7E543216734FB513F9CEBA44C50E6FC2AFD49D_inline((&V_2), (0.0f), (0.0f), (0.0f), NULL);
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:98>
 		il2cpp_codegen_runtime_class_init_inline(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var);
-		List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* L_33 = ((ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_StaticFields*)il2cpp_codegen_static_fields_for(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var))->___s_FeatheringUVs;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_34 = V_2;
-		NullCheck(L_33);
-		List_1_Add_m79E50C4F592B1703F4B76A8BE7B4855515460CA1_inline(L_33, L_34, List_1_Add_m79E50C4F592B1703F4B76A8BE7B4855515460CA1_RuntimeMethod_var);
-		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:100>
-		Mesh_t6D9C539763A09BC2B12AEAEF36F6DFFC98AE63D4* L_35 = ___0_mesh;
-		List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* L_36 = ((ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_StaticFields*)il2cpp_codegen_static_fields_for(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var))->___s_FeatheringUVs;
-		NullCheck(L_35);
-		Mesh_SetUVs_mFEE20B5977AA358DAFA31CF621BBC4B0247789B2(L_35, 1, L_36, NULL);
-		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:101>
-		Mesh_t6D9C539763A09BC2B12AEAEF36F6DFFC98AE63D4* L_37 = ___0_mesh;
+		List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* L_37 = ((ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_StaticFields*)il2cpp_codegen_static_fields_for(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var))->___s_FeatheringUVs;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_38 = V_2;
 		NullCheck(L_37);
-		Mesh_UploadMeshData_mE4C94F263DAA8CAC1641FE137E1CE7D3F09396EB(L_37, (bool)0, NULL);
+		List_1_Add_m79E50C4F592B1703F4B76A8BE7B4855515460CA1_inline(L_37, L_38, List_1_Add_m79E50C4F592B1703F4B76A8BE7B4855515460CA1_RuntimeMethod_var);
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:100>
+		Mesh_t6D9C539763A09BC2B12AEAEF36F6DFFC98AE63D4* L_39 = ___0_mesh;
+		List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* L_40 = ((ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_StaticFields*)il2cpp_codegen_static_fields_for(ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48_il2cpp_TypeInfo_var))->___s_FeatheringUVs;
+		NullCheck(L_39);
+		Mesh_SetUVs_mFEE20B5977AA358DAFA31CF621BBC4B0247789B2(L_39, 1, L_40, NULL);
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:101>
+		Mesh_t6D9C539763A09BC2B12AEAEF36F6DFFC98AE63D4* L_41 = ___0_mesh;
+		NullCheck(L_41);
+		Mesh_UploadMeshData_mE4C94F263DAA8CAC1641FE137E1CE7D3F09396EB(L_41, (bool)0, NULL);
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:102>
 		return;
 	}
 }
-// Method Definition Index: 80691
+// Method Definition Index: 82754
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer__ctor_m5EE8A073C29653AB417E9BEE0BA22DA31F59860E (ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3052,7 +3262,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer__ctor_m5E
 		return;
 	}
 }
-// Method Definition Index: 80692
+// Method Definition Index: 82755
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer__cctor_m36A77AD8F0303E3F6C470EBFC5979DCF27742061 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3085,7 +3295,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARFeatheredPlaneMeshVisualizer__cctor_m3
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 80693
+// Method Definition Index: 82756
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* ARInteractorSpawnTrigger_get_arInteractor_m0D4E9A082A14833A78A8837CA9BC92CDF3BA8E6D (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3094,7 +3304,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930
 		return L_0;
 	}
 }
-// Method Definition Index: 80694
+// Method Definition Index: 82757
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_set_arInteractor_m1951662552D9AE9F7AADDAB2F2FD6C50B074C68C (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -3105,7 +3315,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_set_arInteracto
 		return;
 	}
 }
-// Method Definition Index: 80695
+// Method Definition Index: 82758
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ARInteractorSpawnTrigger_get_requireHorizontalUpSurface_mF09C97FB685D290E45620298A261CAAC4AC1D248 (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3114,7 +3324,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ARInteractorSpawnTrigger_get_requireHori
 		return L_0;
 	}
 }
-// Method Definition Index: 80696
+// Method Definition Index: 82759
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_set_requireHorizontalUpSurface_mCDB97A9958A715203BD18BE5E499327339EDB178 (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, bool ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -3124,7 +3334,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_set_requireHori
 		return;
 	}
 }
-// Method Definition Index: 80697
+// Method Definition Index: 82760
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t ARInteractorSpawnTrigger_get_spawnTriggerType_m33DA41AE09E11080778CE8728CED2D82FA96AA8C (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3133,7 +3343,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t ARInteractorSpawnTrigger_get_spawnTri
 		return L_0;
 	}
 }
-// Method Definition Index: 80698
+// Method Definition Index: 82761
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_set_spawnTriggerType_m14DDCFD2F74F5E0315BCF7FECCBAFB9774F96AF7 (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -3143,7 +3353,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_set_spawnTrigge
 		return;
 	}
 }
-// Method Definition Index: 80699
+// Method Definition Index: 82762
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR XRInputButtonReader_t0727CFE55AD1B8ECEFCD382660D9AC0DA1639515* ARInteractorSpawnTrigger_get_spawnObjectInput_mE6C259EE7D3C4438B3B9C37E9D6D95FC51623C22 (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3152,7 +3362,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR XRInputButtonReader_t0727CFE55AD1B8ECEFCD3826
 		return L_0;
 	}
 }
-// Method Definition Index: 80700
+// Method Definition Index: 82763
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_set_spawnObjectInput_m3E98C1E2DA826F895E14FD1C082262F3ACB16580 (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, XRInputButtonReader_t0727CFE55AD1B8ECEFCD382660D9AC0DA1639515* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -3163,7 +3373,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_set_spawnObject
 		return;
 	}
 }
-// Method Definition Index: 80701
+// Method Definition Index: 82764
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ARInteractorSpawnTrigger_get_blockSpawnWhenInteractorHasSelection_mE9CC63F6155A21C039B5200246B85674F5F4A7B7 (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3172,7 +3382,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ARInteractorSpawnTrigger_get_blockSpawnW
 		return L_0;
 	}
 }
-// Method Definition Index: 80702
+// Method Definition Index: 82765
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_set_blockSpawnWhenInteractorHasSelection_mFE7E311E1593CA06087BECE6C4EEC30A11325F03 (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, bool ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -3182,7 +3392,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_set_blockSpawnW
 		return;
 	}
 }
-// Method Definition Index: 80703
+// Method Definition Index: 82766
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR UnityEvent_2_t9A9D1504EA6A1981D63E2CB9B51C65C26A484916* ARInteractorSpawnTrigger_get_objectSpawnTriggered_mB1942660DB7D854087799F8A3C01CDE89902D814 (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3191,7 +3401,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR UnityEvent_2_t9A9D1504EA6A1981D63E2CB9B51C65C
 		return L_0;
 	}
 }
-// Method Definition Index: 80704
+// Method Definition Index: 82767
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_set_objectSpawnTriggered_mD6A5395D3E88A7003405CE9A3B2EBDA2B84B141D (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, UnityEvent_2_t9A9D1504EA6A1981D63E2CB9B51C65C26A484916* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -3202,7 +3412,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_set_objectSpawn
 		return;
 	}
 }
-// Method Definition Index: 80705
+// Method Definition Index: 82768
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_OnEnable_mC6C2DA04DE89F69C5B84DADACBCEB6E0CAD149AC (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3214,7 +3424,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_OnEnable_mC6C2D
 		return;
 	}
 }
-// Method Definition Index: 80706
+// Method Definition Index: 82769
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_OnDisable_m5DC89AC2C0A9CA125BFB2E1183F67425F50CFEA2 (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3226,7 +3436,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_OnDisable_m5DC8
 		return;
 	}
 }
-// Method Definition Index: 80707
+// Method Definition Index: 82770
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_Start_m2E882D7460D1D37C94A524F78210C528C9A59CC2 (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3237,15 +3447,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_Start_m2E882D74
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral7F28C48E369CB14BDBCD1F6C884476754843936E);
 		s_Il2CppMethodInitialized = true;
 	}
+	bool V_0 = false;
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:141>
 		XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* L_0 = __this->___m_ARInteractor;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
 		L_1 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_0, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_1)
+		V_0 = L_1;
+		bool L_2 = V_0;
+		if (!L_2)
 		{
-			goto IL_0020;
+			goto IL_0027;
 		}
 	}
 	{
@@ -3256,13 +3469,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_Start_m2E882D74
 		Behaviour_set_enabled_mF1DCFE60EB09E0529FE9476CA804A3AA2D72B16A(__this, (bool)0, NULL);
 	}
 
-IL_0020:
+IL_0027:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:146>
 		return;
 	}
 }
-// Method Definition Index: 80708
+// Method Definition Index: 82771
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_Update_m124C7423B6CDFBA0B18E82369B96377FB7C660DA (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3275,333 +3488,412 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger_Update_m124C742
 		s_Il2CppMethodInitialized = true;
 	}
 	LogicalInputState_tC8869ADC07CFDF5E60D09DC140CC05EF0227843A* V_0 = NULL;
-	ARRaycastHit_tB32B5606815B8A7DF479C00187A852F8D20E3B70 V_1;
-	memset((&V_1), 0, sizeof(V_1));
-	ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0* V_2 = NULL;
-	int32_t V_3 = 0;
+	bool V_1 = false;
+	bool V_2 = false;
+	ARRaycastHit_tB32B5606815B8A7DF479C00187A852F8D20E3B70 V_3;
+	memset((&V_3), 0, sizeof(V_3));
+	bool V_4 = false;
+	bool V_5 = false;
+	ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0* V_6 = NULL;
+	bool V_7 = false;
+	bool V_8 = false;
+	bool V_9 = false;
+	bool V_10 = false;
+	bool V_11 = false;
+	int32_t V_12 = 0;
+	int32_t V_13 = 0;
+	bool V_14 = false;
+	bool V_15 = false;
 	int32_t G_B6_0 = 0;
-	ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* G_B26_0 = NULL;
-	ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* G_B25_0 = NULL;
-	int32_t G_B27_0 = 0;
-	ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* G_B27_1 = NULL;
+	int32_t G_B9_0 = 0;
+	int32_t G_B15_0 = 0;
+	ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* G_B32_0 = NULL;
 	ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* G_B31_0 = NULL;
-	ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* G_B30_0 = NULL;
-	int32_t G_B32_0 = 0;
-	ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* G_B32_1 = NULL;
+	int32_t G_B33_0 = 0;
+	ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* G_B33_1 = NULL;
+	ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* G_B38_0 = NULL;
+	ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* G_B37_0 = NULL;
+	int32_t G_B39_0 = 0;
+	ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* G_B39_1 = NULL;
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:156>
 		bool L_0 = __this->___m_AttemptSpawn;
-		if (!L_0)
+		V_1 = L_0;
+		bool L_1 = V_1;
+		if (!L_1)
 		{
-			goto IL_008e;
+			goto IL_00cc;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:158>
 		__this->___m_AttemptSpawn = (bool)0;
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:162>
-		XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* L_1 = __this->___m_ARInteractor;
-		NullCheck(L_1);
-		bool L_2;
-		L_2 = XRBaseInteractor_get_hasSelection_m8BC5C4AF35F35DDD0785F3B66243FA381B0726D6_inline(L_1, NULL);
-		if (!L_2)
+		XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* L_2 = __this->___m_ARInteractor;
+		NullCheck(L_2);
+		bool L_3;
+		L_3 = XRBaseInteractor_get_hasSelection_m8BC5C4AF35F35DDD0785F3B66243FA381B0726D6_inline(L_2, NULL);
+		V_4 = L_3;
+		bool L_4 = V_4;
+		if (!L_4)
 		{
-			goto IL_0020;
+			goto IL_002c;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:163>
-		return;
+		goto IL_01a8;
 	}
 
-IL_0020:
+IL_002c:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:166>
 		il2cpp_codegen_runtime_class_init_inline(EventSystem_t61C51380B105BE9D2C39C4F15B7E655659957707_il2cpp_TypeInfo_var);
-		EventSystem_t61C51380B105BE9D2C39C4F15B7E655659957707* L_3;
-		L_3 = EventSystem_get_current_mC87C69FB418563DC2A571A10E2F9DB59A6785016(NULL);
+		EventSystem_t61C51380B105BE9D2C39C4F15B7E655659957707* L_5;
+		L_5 = EventSystem_get_current_mC87C69FB418563DC2A571A10E2F9DB59A6785016(NULL);
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_4;
-		L_4 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_3, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_4)
+		bool L_6;
+		L_6 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_5, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_6)
 		{
-			goto IL_003a;
+			goto IL_0046;
 		}
 	}
 	{
 		il2cpp_codegen_runtime_class_init_inline(EventSystem_t61C51380B105BE9D2C39C4F15B7E655659957707_il2cpp_TypeInfo_var);
-		EventSystem_t61C51380B105BE9D2C39C4F15B7E655659957707* L_5;
-		L_5 = EventSystem_get_current_mC87C69FB418563DC2A571A10E2F9DB59A6785016(NULL);
-		NullCheck(L_5);
-		bool L_6;
-		L_6 = EventSystem_IsPointerOverGameObject_m238732B4FDEA343976D798FF04DB34C3221243C2(L_5, (-1), NULL);
-		G_B6_0 = ((int32_t)(L_6));
-		goto IL_003b;
+		EventSystem_t61C51380B105BE9D2C39C4F15B7E655659957707* L_7;
+		L_7 = EventSystem_get_current_mC87C69FB418563DC2A571A10E2F9DB59A6785016(NULL);
+		NullCheck(L_7);
+		bool L_8;
+		L_8 = EventSystem_IsPointerOverGameObject_m238732B4FDEA343976D798FF04DB34C3221243C2(L_7, (-1), NULL);
+		G_B6_0 = ((int32_t)(L_8));
+		goto IL_0047;
 	}
 
-IL_003a:
+IL_0046:
 	{
 		G_B6_0 = 0;
 	}
 
-IL_003b:
+IL_0047:
 	{
+		V_2 = (bool)G_B6_0;
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:167>
-		if (G_B6_0)
+		bool L_9 = V_2;
+		if (L_9)
 		{
-			goto IL_008d;
+			goto IL_005a;
 		}
 	}
 	{
-		XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* L_7 = __this->___m_ARInteractor;
-		NullCheck(L_7);
-		bool L_8;
-		L_8 = XRRayInteractor_TryGetCurrentARRaycastHit_mF1DEC84FAEA6C95D5BFEE7E270269B396AA4F282(L_7, (&V_1), NULL);
-		if (!L_8)
+		XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* L_10 = __this->___m_ARInteractor;
+		NullCheck(L_10);
+		bool L_11;
+		L_11 = XRRayInteractor_TryGetCurrentARRaycastHit_mF1DEC84FAEA6C95D5BFEE7E270269B396AA4F282(L_10, (&V_3), NULL);
+		G_B9_0 = ((int32_t)(L_11));
+		goto IL_005b;
+	}
+
+IL_005a:
+	{
+		G_B9_0 = 0;
+	}
+
+IL_005b:
+	{
+		V_5 = (bool)G_B9_0;
+		bool L_12 = V_5;
+		if (!L_12)
 		{
-			goto IL_008d;
+			goto IL_00c7;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:169>
-		ARTrackable_t1D98417758C08E98A333CDEC0C2C1688CE10B2E0* L_9;
-		L_9 = ARRaycastHit_get_trackable_mF8D64EB03AFF2E1D5FC9B88255D2A84130B43D09_inline((&V_1), NULL);
-		V_2 = ((ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0*)IsInstSealed((RuntimeObject*)L_9, ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0_il2cpp_TypeInfo_var));
-		ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0* L_10 = V_2;
-		if (L_10)
+		ARTrackable_t1D98417758C08E98A333CDEC0C2C1688CE10B2E0* L_13;
+		L_13 = ARRaycastHit_get_trackable_mF8D64EB03AFF2E1D5FC9B88255D2A84130B43D09_inline((&V_3), NULL);
+		V_6 = ((ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0*)IsInstSealed((RuntimeObject*)L_13, ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0_il2cpp_TypeInfo_var));
+		ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0* L_14 = V_6;
+		V_7 = (bool)((((int32_t)((!(((RuntimeObject*)(ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0*)L_14) <= ((RuntimeObject*)(RuntimeObject*)NULL)))? 1 : 0)) == ((int32_t)0))? 1 : 0);
+		bool L_15 = V_7;
+		if (!L_15)
 		{
-			goto IL_005d;
+			goto IL_0083;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:170>
-		return;
+		goto IL_01a8;
 	}
 
-IL_005d:
+IL_0083:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:172>
-		bool L_11 = __this->___m_RequireHorizontalUpSurface;
-		if (!L_11)
+		bool L_16 = __this->___m_RequireHorizontalUpSurface;
+		if (!L_16)
 		{
-			goto IL_0070;
+			goto IL_009b;
 		}
 	}
 	{
-		ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0* L_12 = V_2;
-		NullCheck(L_12);
-		int32_t L_13;
-		L_13 = ARPlane_get_alignment_mBEF1BCDE0A964ADAE4E5F477BD4C961CA8849EC1(L_12, NULL);
-		if ((((int32_t)L_13) == ((int32_t)((int32_t)100))))
+		ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0* L_17 = V_6;
+		NullCheck(L_17);
+		int32_t L_18;
+		L_18 = ARPlane_get_alignment_mBEF1BCDE0A964ADAE4E5F477BD4C961CA8849EC1(L_17, NULL);
+		G_B15_0 = ((((int32_t)((((int32_t)L_18) == ((int32_t)((int32_t)100)))? 1 : 0)) == ((int32_t)0))? 1 : 0);
+		goto IL_009c;
+	}
+
+IL_009b:
+	{
+		G_B15_0 = 0;
+	}
+
+IL_009c:
+	{
+		V_8 = (bool)G_B15_0;
+		bool L_19 = V_8;
+		if (!L_19)
 		{
-			goto IL_0070;
+			goto IL_00a7;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:173>
-		return;
+		goto IL_01a8;
 	}
 
-IL_0070:
+IL_00a7:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:175>
-		UnityEvent_2_t9A9D1504EA6A1981D63E2CB9B51C65C26A484916* L_14 = __this->___m_ObjectSpawnTriggered;
-		Pose_t06BA69EAA6E9FAF60056D519A87D25F54AFE7971 L_15;
-		L_15 = ARRaycastHit_get_pose_m84C13E71E21FE12CBA9AAD98DC28B1E414C9EFFD((&V_1), NULL);
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_16 = L_15.___position;
-		ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0* L_17 = V_2;
-		NullCheck(L_17);
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_18;
-		L_18 = ARPlane_get_normal_m12A4F62B15333D04011C0DBD6377FA1E9B3C60B7(L_17, NULL);
-		NullCheck(L_14);
-		UnityEvent_2_Invoke_m02E8D9DEBFED1D5B637E81F4F540EA74BC1EBC35(L_14, L_16, L_18, UnityEvent_2_Invoke_m02E8D9DEBFED1D5B637E81F4F540EA74BC1EBC35_RuntimeMethod_var);
+		UnityEvent_2_t9A9D1504EA6A1981D63E2CB9B51C65C26A484916* L_20 = __this->___m_ObjectSpawnTriggered;
+		Pose_t06BA69EAA6E9FAF60056D519A87D25F54AFE7971 L_21;
+		L_21 = ARRaycastHit_get_pose_m84C13E71E21FE12CBA9AAD98DC28B1E414C9EFFD((&V_3), NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_22 = L_21.___position;
+		ARPlane_tB2F02248AD4019D141553B25C1B9005913E98EF0* L_23 = V_6;
+		NullCheck(L_23);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_24;
+		L_24 = ARPlane_get_normal_m12A4F62B15333D04011C0DBD6377FA1E9B3C60B7(L_23, NULL);
+		NullCheck(L_20);
+		UnityEvent_2_Invoke_m02E8D9DEBFED1D5B637E81F4F540EA74BC1EBC35(L_20, L_22, L_24, UnityEvent_2_Invoke_m02E8D9DEBFED1D5B637E81F4F540EA74BC1EBC35_RuntimeMethod_var);
 	}
 
-IL_008d:
+IL_00c7:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:178>
-		return;
+		goto IL_01a8;
 	}
 
-IL_008e:
+IL_00cc:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:181>
-		XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* L_19 = __this->___m_ARInteractor;
-		NullCheck(L_19);
-		LogicalInputState_tC8869ADC07CFDF5E60D09DC140CC05EF0227843A* L_20;
-		L_20 = XRBaseInputInteractor_get_logicalSelectState_m198A8FC9C34A056EFE972F57763162540A39D4CA_inline(L_19, NULL);
-		V_0 = L_20;
+		XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* L_25 = __this->___m_ARInteractor;
+		NullCheck(L_25);
+		LogicalInputState_tC8869ADC07CFDF5E60D09DC140CC05EF0227843A* L_26;
+		L_26 = XRBaseInputInteractor_get_logicalSelectState_m198A8FC9C34A056EFE972F57763162540A39D4CA_inline(L_25, NULL);
+		V_0 = L_26;
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:183>
-		bool L_21 = __this->___m_BlockSpawnWhenInteractorHasSelection;
-		if (!L_21)
+		bool L_27 = __this->___m_BlockSpawnWhenInteractorHasSelection;
+		V_9 = L_27;
+		bool L_28 = V_9;
+		if (!L_28)
 		{
-			goto IL_00dd;
+			goto IL_0129;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:185>
-		LogicalInputState_tC8869ADC07CFDF5E60D09DC140CC05EF0227843A* L_22 = V_0;
-		NullCheck(L_22);
-		bool L_23;
-		L_23 = LogicalInputState_get_wasPerformedThisFrame_m835778C282335758E1948BD6DFE9401B7F0374EC_inline(L_22, NULL);
-		if (!L_23)
+		LogicalInputState_tC8869ADC07CFDF5E60D09DC140CC05EF0227843A* L_29 = V_0;
+		NullCheck(L_29);
+		bool L_30;
+		L_30 = LogicalInputState_get_wasPerformedThisFrame_m835778C282335758E1948BD6DFE9401B7F0374EC_inline(L_29, NULL);
+		V_10 = L_30;
+		bool L_31 = V_10;
+		if (!L_31)
 		{
-			goto IL_00bd;
+			goto IL_0104;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:186>
-		XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* L_24 = __this->___m_ARInteractor;
-		NullCheck(L_24);
-		bool L_25;
-		L_25 = XRBaseInteractor_get_hasSelection_m8BC5C4AF35F35DDD0785F3B66243FA381B0726D6_inline(L_24, NULL);
-		__this->___m_EverHadSelection = L_25;
-		goto IL_00dd;
+		XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* L_32 = __this->___m_ARInteractor;
+		NullCheck(L_32);
+		bool L_33;
+		L_33 = XRBaseInteractor_get_hasSelection_m8BC5C4AF35F35DDD0785F3B66243FA381B0726D6_inline(L_32, NULL);
+		__this->___m_EverHadSelection = L_33;
+		goto IL_0128;
 	}
 
-IL_00bd:
+IL_0104:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:187>
-		LogicalInputState_tC8869ADC07CFDF5E60D09DC140CC05EF0227843A* L_26 = V_0;
-		NullCheck(L_26);
-		bool L_27;
-		L_27 = LogicalInputState_get_active_mE546DD08CA92568676A2FD6B8195142C6158D906_inline(L_26, NULL);
-		if (!L_27)
+		LogicalInputState_tC8869ADC07CFDF5E60D09DC140CC05EF0227843A* L_34 = V_0;
+		NullCheck(L_34);
+		bool L_35;
+		L_35 = LogicalInputState_get_active_mE546DD08CA92568676A2FD6B8195142C6158D906_inline(L_34, NULL);
+		V_11 = L_35;
+		bool L_36 = V_11;
+		if (!L_36)
 		{
-			goto IL_00dd;
+			goto IL_0128;
 		}
 	}
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:188>
-		bool L_28 = __this->___m_EverHadSelection;
-		XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* L_29 = __this->___m_ARInteractor;
-		NullCheck(L_29);
-		bool L_30;
-		L_30 = XRBaseInteractor_get_hasSelection_m8BC5C4AF35F35DDD0785F3B66243FA381B0726D6_inline(L_29, NULL);
-		__this->___m_EverHadSelection = (bool)((int32_t)((int32_t)L_28|(int32_t)L_30));
+		bool L_37 = __this->___m_EverHadSelection;
+		XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* L_38 = __this->___m_ARInteractor;
+		NullCheck(L_38);
+		bool L_39;
+		L_39 = XRBaseInteractor_get_hasSelection_m8BC5C4AF35F35DDD0785F3B66243FA381B0726D6_inline(L_38, NULL);
+		__this->___m_EverHadSelection = (bool)((int32_t)((int32_t)L_37|(int32_t)L_39));
 	}
 
-IL_00dd:
+IL_0128:
+	{
+	}
+
+IL_0129:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:191>
 		__this->___m_AttemptSpawn = (bool)0;
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:192>
-		int32_t L_31 = __this->___m_SpawnTriggerType;
-		V_3 = L_31;
-		int32_t L_32 = V_3;
-		if (!L_32)
+		int32_t L_40 = __this->___m_SpawnTriggerType;
+		V_13 = L_40;
+		int32_t L_41 = V_13;
+		V_12 = L_41;
+		int32_t L_42 = V_12;
+		if (!L_42)
 		{
-			goto IL_00f3;
+			goto IL_0149;
 		}
 	}
 	{
-		int32_t L_33 = V_3;
-		if ((((int32_t)L_33) == ((int32_t)1)))
-		{
-			goto IL_011b;
-		}
-	}
-	{
-		return;
-	}
-
-IL_00f3:
-	{
-		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:195>
-		LogicalInputState_tC8869ADC07CFDF5E60D09DC140CC05EF0227843A* L_34 = V_0;
-		NullCheck(L_34);
-		bool L_35;
-		L_35 = LogicalInputState_get_wasCompletedThisFrame_m4A7B5B74942BEC5F21B8DCE2DDF9D4045367A3A0_inline(L_34, NULL);
-		if (!L_35)
-		{
-			goto IL_0147;
-		}
-	}
-	{
-		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:196>
-		XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* L_36 = __this->___m_ARInteractor;
-		NullCheck(L_36);
-		bool L_37;
-		L_37 = XRBaseInteractor_get_hasSelection_m8BC5C4AF35F35DDD0785F3B66243FA381B0726D6_inline(L_36, NULL);
-		if (L_37)
-		{
-			G_B26_0 = __this;
-			goto IL_0114;
-		}
-		G_B25_0 = __this;
-	}
-	{
-		bool L_38 = __this->___m_EverHadSelection;
-		G_B27_0 = ((((int32_t)L_38) == ((int32_t)0))? 1 : 0);
-		G_B27_1 = G_B25_0;
-		goto IL_0115;
-	}
-
-IL_0114:
-	{
-		G_B27_0 = 0;
-		G_B27_1 = G_B26_0;
-	}
-
-IL_0115:
-	{
-		NullCheck(G_B27_1);
-		G_B27_1->___m_AttemptSpawn = (bool)G_B27_0;
-		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:197>
-		return;
-	}
-
-IL_011b:
-	{
-		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:200>
-		XRInputButtonReader_t0727CFE55AD1B8ECEFCD382660D9AC0DA1639515* L_39 = __this->___m_SpawnObjectInput;
-		NullCheck(L_39);
-		bool L_40;
-		L_40 = XRInputButtonReader_ReadWasPerformedThisFrame_mD45A7388B19EE02420E9F3D19C98F03FFBDA7A93(L_39, NULL);
-		if (!L_40)
-		{
-			goto IL_0147;
-		}
-	}
-	{
-		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:201>
-		XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* L_41 = __this->___m_ARInteractor;
-		NullCheck(L_41);
-		bool L_42;
-		L_42 = XRBaseInteractor_get_hasSelection_m8BC5C4AF35F35DDD0785F3B66243FA381B0726D6_inline(L_41, NULL);
-		if (L_42)
-		{
-			G_B31_0 = __this;
-			goto IL_0141;
-		}
-		G_B30_0 = __this;
-	}
-	{
-		bool L_43 = __this->___m_EverHadSelection;
-		G_B32_0 = ((((int32_t)L_43) == ((int32_t)0))? 1 : 0);
-		G_B32_1 = G_B30_0;
 		goto IL_0142;
-	}
-
-IL_0141:
-	{
-		G_B32_0 = 0;
-		G_B32_1 = G_B31_0;
 	}
 
 IL_0142:
 	{
-		NullCheck(G_B32_1);
-		G_B32_1->___m_AttemptSpawn = (bool)G_B32_0;
+		int32_t L_43 = V_12;
+		if ((((int32_t)L_43) == ((int32_t)1)))
+		{
+			goto IL_0176;
+		}
+	}
+	{
+		goto IL_01a8;
 	}
 
-IL_0147:
+IL_0149:
+	{
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:195>
+		LogicalInputState_tC8869ADC07CFDF5E60D09DC140CC05EF0227843A* L_44 = V_0;
+		NullCheck(L_44);
+		bool L_45;
+		L_45 = LogicalInputState_get_wasCompletedThisFrame_m4A7B5B74942BEC5F21B8DCE2DDF9D4045367A3A0_inline(L_44, NULL);
+		V_14 = L_45;
+		bool L_46 = V_14;
+		if (!L_46)
+		{
+			goto IL_0174;
+		}
+	}
+	{
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:196>
+		XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* L_47 = __this->___m_ARInteractor;
+		NullCheck(L_47);
+		bool L_48;
+		L_48 = XRBaseInteractor_get_hasSelection_m8BC5C4AF35F35DDD0785F3B66243FA381B0726D6_inline(L_47, NULL);
+		if (L_48)
+		{
+			G_B32_0 = __this;
+			goto IL_016e;
+		}
+		G_B31_0 = __this;
+	}
+	{
+		bool L_49 = __this->___m_EverHadSelection;
+		G_B33_0 = ((((int32_t)L_49) == ((int32_t)0))? 1 : 0);
+		G_B33_1 = G_B31_0;
+		goto IL_016f;
+	}
+
+IL_016e:
+	{
+		G_B33_0 = 0;
+		G_B33_1 = G_B32_0;
+	}
+
+IL_016f:
+	{
+		NullCheck(G_B33_1);
+		G_B33_1->___m_AttemptSpawn = (bool)G_B33_0;
+	}
+
+IL_0174:
+	{
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:197>
+		goto IL_01a8;
+	}
+
+IL_0176:
+	{
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:200>
+		XRInputButtonReader_t0727CFE55AD1B8ECEFCD382660D9AC0DA1639515* L_50 = __this->___m_SpawnObjectInput;
+		NullCheck(L_50);
+		bool L_51;
+		L_51 = XRInputButtonReader_ReadWasPerformedThisFrame_mD45A7388B19EE02420E9F3D19C98F03FFBDA7A93(L_50, NULL);
+		V_15 = L_51;
+		bool L_52 = V_15;
+		if (!L_52)
+		{
+			goto IL_01a6;
+		}
+	}
+	{
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:201>
+		XRRayInteractor_tDB7FC857A50F0B25DE4CEC0EE930242BB7380649* L_53 = __this->___m_ARInteractor;
+		NullCheck(L_53);
+		bool L_54;
+		L_54 = XRBaseInteractor_get_hasSelection_m8BC5C4AF35F35DDD0785F3B66243FA381B0726D6_inline(L_53, NULL);
+		if (L_54)
+		{
+			G_B38_0 = __this;
+			goto IL_01a0;
+		}
+		G_B37_0 = __this;
+	}
+	{
+		bool L_55 = __this->___m_EverHadSelection;
+		G_B39_0 = ((((int32_t)L_55) == ((int32_t)0))? 1 : 0);
+		G_B39_1 = G_B37_0;
+		goto IL_01a1;
+	}
+
+IL_01a0:
+	{
+		G_B39_0 = 0;
+		G_B39_1 = G_B38_0;
+	}
+
+IL_01a1:
+	{
+		NullCheck(G_B39_1);
+		G_B39_1->___m_AttemptSpawn = (bool)G_B39_0;
+	}
+
+IL_01a6:
+	{
+		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:202>
+		goto IL_01a8;
+	}
+
+IL_01a8:
 	{
 		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARInteractorSpawnTrigger.cs:204>
 		return;
 	}
 }
-// Method Definition Index: 80709
+// Method Definition Index: 82772
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger__ctor_m9C8FBBEB12B516D8BCECB494BE5407EB49D64937 (ARInteractorSpawnTrigger_t4A1290908BA12C9084EF6DBB71684676CD21A8FA* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3665,16 +3957,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARInteractorSpawnTrigger__ctor_m9C8FBBEB
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-// Method Definition Index: 66827
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C_inline (Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* __this, const RuntimeMethod* method) 
-{
-	{
-		//<source_info:./Library/PackageCache/com.unity.ugui@38c58105e446/Runtime/UGUI/UI/Core/Button.cs:60>
-		ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* L_0 = __this->___m_OnClick;
-		return L_0;
-	}
-}
-// Method Definition Index: 24738
+// Method Definition Index: 25040
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR RuntimeObject* XRInteractionGroup_get_focusInteractable_m1EAC5783216B14458479D0E43708E18A8CE95A61_inline (XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3683,7 +3966,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR RuntimeObject* XRInteractionGroup
 		return L_0;
 	}
 }
-// Method Definition Index: 80671
+// Method Definition Index: 82734
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool ARContactSpawnTrigger_get_blockSpawnDuringInteraction_mD11E4CD30CCEE400A3486AB5C52618646B9E8A6E_inline (ARContactSpawnTrigger_tD8F640BDF4DDE156DDC4531321BC98B245945267* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3692,7 +3975,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool ARContactSpawnTrigger_get_bl
 		return L_0;
 	}
 }
-// Method Definition Index: 43779
+// Method Definition Index: 53492
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Plane__ctor_m2BFB65EBFF51123791878684ECC375B99FAD10A2_inline (Plane_tB7D8CC6F7AACF5F3AA483AF005C1102A8577BC0C* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_inNormal, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_inPoint, const RuntimeMethod* method) 
 {
 	{
@@ -3708,7 +3991,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Plane__ctor_m2BFB65EBFF51123
 		return;
 	}
 }
-// Method Definition Index: 43782
+// Method Definition Index: 53495
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Plane_ClosestPointOnPlane_m5350637BF436E1B5039D8AC09E7AADA126E85A84_inline (Plane_tB7D8CC6F7AACF5F3AA483AF005C1102A8577BC0C* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_point, const RuntimeMethod* method) 
 {
 	float V_0 = 0.0f;
@@ -3738,7 +4021,7 @@ IL_002a:
 		return L_9;
 	}
 }
-// Method Definition Index: 24734
+// Method Definition Index: 25036
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR RuntimeObject* XRInteractionGroup_get_activeInteractor_m7A115196A9AD3143C5479EF571503ECCCDC2342C_inline (XRInteractionGroup_tC4826C686618B4D279303C4A8CF660C39E8AE91C* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3747,7 +4030,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR RuntimeObject* XRInteractionGroup
 		return L_0;
 	}
 }
-// Method Definition Index: 70143
+// Method Definition Index: 70477
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Mesh_t6D9C539763A09BC2B12AEAEF36F6DFFC98AE63D4* ARPlaneMeshVisualizer_get_mesh_m6C1A730CECE8AE0A0549ED615AB3B3D66E4A0FD8_inline (ARPlaneMeshVisualizer_t21838C8E2676AC524939E67CB965925E924E018F* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3756,7 +4039,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Mesh_t6D9C539763A09BC2B12AEAEF36F
 		return L_0;
 	}
 }
-// Method Definition Index: 45286
+// Method Definition Index: 55001
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, float ___0_x, float ___1_y, float ___2_z, const RuntimeMethod* method) 
 {
 	{
@@ -3769,7 +4052,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3__ctor_m376936E6B999E
 		return;
 	}
 }
-// Method Definition Index: 45303
+// Method Definition Index: 55018
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Vector3_Distance_m2314DB9B8BD01157E013DF87BEA557375C7F9FF9_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_b, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3817,16 +4100,7 @@ IL_0040:
 		return L_19;
 	}
 }
-// Method Definition Index: 80684
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float ARFeatheredPlaneMeshVisualizer_get_featheringWidth_m2E50FB2F2394BF511A66CB70C282F3D31177921F_inline (ARFeatheredPlaneMeshVisualizer_t6CF5956C7D39A69C97F4B67E6CA75AAAD09C8C48* __this, const RuntimeMethod* method) 
-{
-	{
-		//<source_info:C:/Unity Projects/AR Chart/Assets/Samples/XR Interaction Toolkit/3.3.0/AR Starter Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs:25>
-		float L_0 = __this->___m_FeatheringWidth;
-		return L_0;
-	}
-}
-// Method Definition Index: 45393
+// Method Definition Index: 55108
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Mathf_Max_mF5379E63D2BBAC76D090748695D833934F8AD051_inline (float ___0_a, float ___1_b, const RuntimeMethod* method) 
 {
 	float V_0 = 0.0f;
@@ -3863,7 +4137,7 @@ IL_000c:
 		return L_4;
 	}
 }
-// Method Definition Index: 45288
+// Method Definition Index: 55003
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3_Set_m1C7E543216734FB513F9CEBA44C50E6FC2AFD49D_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, float ___0_newX, float ___1_newY, float ___2_newZ, const RuntimeMethod* method) 
 {
 	{
@@ -3876,7 +4150,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3_Set_m1C7E543216734FB
 		return;
 	}
 }
-// Method Definition Index: 24556
+// Method Definition Index: 24858
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool XRBaseInteractor_get_hasSelection_m8BC5C4AF35F35DDD0785F3B66243FA381B0726D6_inline (XRBaseInteractor_t4AF6FC9A7611B9417B4A43E11704AFF85B4A0FB4* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3885,7 +4159,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool XRBaseInteractor_get_hasSele
 		return L_0;
 	}
 }
-// Method Definition Index: 70234
+// Method Definition Index: 70568
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR ARTrackable_t1D98417758C08E98A333CDEC0C2C1688CE10B2E0* ARRaycastHit_get_trackable_mF8D64EB03AFF2E1D5FC9B88255D2A84130B43D09_inline (ARRaycastHit_tB32B5606815B8A7DF479C00187A852F8D20E3B70* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3894,7 +4168,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR ARTrackable_t1D98417758C08E98A333
 		return L_0;
 	}
 }
-// Method Definition Index: 24375
+// Method Definition Index: 24677
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR LogicalInputState_tC8869ADC07CFDF5E60D09DC140CC05EF0227843A* XRBaseInputInteractor_get_logicalSelectState_m198A8FC9C34A056EFE972F57763162540A39D4CA_inline (XRBaseInputInteractor_t704F8C3C7AD9AD8857D5D3AAFDF2F2E37A27BE46* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3903,7 +4177,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR LogicalInputState_tC8869ADC07CFDF
 		return L_0;
 	}
 }
-// Method Definition Index: 24491
+// Method Definition Index: 24793
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool LogicalInputState_get_wasPerformedThisFrame_m835778C282335758E1948BD6DFE9401B7F0374EC_inline (LogicalInputState_tC8869ADC07CFDF5E60D09DC140CC05EF0227843A* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3912,7 +4186,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool LogicalInputState_get_wasPer
 		return L_0;
 	}
 }
-// Method Definition Index: 24485
+// Method Definition Index: 24787
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool LogicalInputState_get_active_mE546DD08CA92568676A2FD6B8195142C6158D906_inline (LogicalInputState_tC8869ADC07CFDF5E60D09DC140CC05EF0227843A* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3921,7 +4195,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool LogicalInputState_get_active
 		return L_0;
 	}
 }
-// Method Definition Index: 24493
+// Method Definition Index: 24795
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool LogicalInputState_get_wasCompletedThisFrame_m4A7B5B74942BEC5F21B8DCE2DDF9D4045367A3A0_inline (LogicalInputState_tC8869ADC07CFDF5E60D09DC140CC05EF0227843A* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3930,7 +4204,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool LogicalInputState_get_wasCom
 		return L_0;
 	}
 }
-// Method Definition Index: 9008
+// Method Definition Index: 9276
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void List_1_Clear_m455780C5A45049F9BDC25EAD3BA10A681D16385D_gshared_inline (List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* __this, const RuntimeMethod* method) 
 {
 	int32_t V_0 = 0;
@@ -3950,7 +4224,7 @@ IL_003c:
 		return;
 	}
 }
-// Method Definition Index: 8990
+// Method Definition Index: 9258
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t List_1_get_Count_m46EEFFA770BE665EA0CB3A5332E941DA4B3C1D37_gshared_inline (List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3958,7 +4232,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t List_1_get_Count_m46EEFFA
 		return L_0;
 	}
 }
-// Method Definition Index: 9000
+// Method Definition Index: 9268
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void List_1_Add_m79E50C4F592B1703F4B76A8BE7B4855515460CA1_gshared_inline (List_1_t77B94703E05C519A9010DD0614F757F974E1CD8B* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_item, const RuntimeMethod* method) 
 {
 	Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* V_0 = NULL;
@@ -3996,7 +4270,7 @@ IL_0034:
 		return;
 	}
 }
-// Method Definition Index: 45295
+// Method Definition Index: 55010
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_Normalize_mEF8349CC39674236CFC694189AFD36E31F89AC8F_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_value, const RuntimeMethod* method) 
 {
 	float V_0 = 0.0f;
@@ -4039,7 +4313,7 @@ IL_0026:
 		return L_8;
 	}
 }
-// Method Definition Index: 45298
+// Method Definition Index: 55013
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Vector3_Dot_mBB86BB940AA0A32FA7D3C02AC42E5BC7095A5D52_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_lhs, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_rhs, const RuntimeMethod* method) 
 {
 	float V_0 = 0.0f;
@@ -4066,7 +4340,7 @@ IL_002d:
 		return L_12;
 	}
 }
-// Method Definition Index: 45322
+// Method Definition Index: 55037
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, float ___1_d, const RuntimeMethod* method) 
 {
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
@@ -4094,7 +4368,7 @@ IL_0021:
 		return L_10;
 	}
 }
-// Method Definition Index: 45320
+// Method Definition Index: 55035
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_b, const RuntimeMethod* method) 
 {
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
@@ -4125,7 +4399,7 @@ IL_0030:
 		return L_13;
 	}
 }
-// Method Definition Index: 45305
+// Method Definition Index: 55020
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Vector3_Magnitude_m21652D951393A3D7CE92CE40049A0E7F76544D1B_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_vector, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4161,7 +4435,7 @@ IL_0034:
 		return L_13;
 	}
 }
-// Method Definition Index: 45324
+// Method Definition Index: 55039
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Division_mCC6BB24E372AB96B8380D1678446EF6A8BAE13BB_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, float ___1_d, const RuntimeMethod* method) 
 {
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
@@ -4189,7 +4463,7 @@ IL_0021:
 		return L_10;
 	}
 }
-// Method Definition Index: 45311
+// Method Definition Index: 55026
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
